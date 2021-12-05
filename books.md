@@ -20,9 +20,9 @@ Here's a list of my favorite pop-up books. Note that all the links are paid, Ama
 
 by Duncan Birmingham
 
-For me this is _the_ book on pop-up engineering and I can not recommend it enough. It covers almost every pop-up mechanism I've seen in a well-organized fashion, with clear, color photographs and plenty of examples. Perhaps a bit too technical for some, I enjoy his comments on the theory behind the mechanism, and how adjusting one angle affects another. This is his revised version of his earlier book below.
+For me this is _the_ book on pop-up engineering and I can not recommend it enough. It covers almost every pop-up mechanism I've seen in a well-organized fashion, with clear, color photographs and plenty of examples. Perhaps a bit too technical for some, I enjoy his comments on the theory behind the mechanism, and how adjusting one angle affects another. This is his revised version of his earlier book [below](/books.html#pop-up-a-manual-of-paper-mechanisms).
 
-In this blog I will refer to the mechanism with the numbers in this book. For example, Foundation Shape 7, would be FS7 (parallelogram).
+In this blog I will refer to the mechanism with the numbers from this book. For example, Foundation Shape 7, would be FS7 (parallelogram). See the [terminology](/terminology.html) page for details.
 
 ### Pop Up!: A Manual of Paper Mechanisms
 
@@ -33,6 +33,14 @@ by Duncan Birmingham
 This is the first Birmingham book, which I also recommend if you can find it. Smaller, and with black-and-white illustrations, it has 120 different mechanism, some with several variations.
 
 As an aspiring paper engineer, I created every one of the popups of this book on 5 1/2 x 4 1/4 (quarter of a sheet of letter) paper.
+
+### The Elements of Pop-Up
+
+<a href="https://www.amazon.com/gp/product/0689822243?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=c95e5a13fd1193d3ab46920e5f7e4e4a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0689822243&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0689822243" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+by James Diaz, David A. Carter
+
+No longer in print, this one is interesting in that it is itself a pop-up book with examples of many mechanisms. Each little pop-up has a paragraph explaining it with the pop-up itself annotated with notes about angles and dimensions. Other mechanisms such as pull tabs and wheels are also covered. You get to see all the details of a mechanism from cut outs, or being able to see the back of it. In addition to the working samples and directions, you can get the diagrams for all the mechanisms from David Carter's [site](http://www.popupbooks.com/surprise.html)
 
 ### The Pop-Up Book: Step-by-Step Instructions for Creating Over 100 Original Paper Projects
 
@@ -48,15 +56,7 @@ A great book for learning the various techniques about popups. The first section
 
 by Paul Jackson
 
-This is a one of series of books about folding paper.
-
-### The Elements of Pop-Up
-
-<a href="https://www.amazon.com/gp/product/0689822243?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=c95e5a13fd1193d3ab46920e5f7e4e4a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0689822243&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0689822243" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-by James Diaz, David A. Carter
-
-No longer in print, this one is interesting in that it is itself a pop-up book with examples of many mechanisms. Each little pop-up has a paragraph explaining it with the pop-up itself annotated with notes about angles and dimensions. Other mechanisms such as pull tabs and wheels are also covered.  In addition to the working samples and directions, you can get the diagrams for all the mechanisms from David Carters [site](http://www.popupbooks.com/surprise.html)
+This is one of a series of books about folding paper.
 
 ### Creative Pop-Up: A History And Project Book: A Fascinating Introduction To Paper Engineering, With 50 Step-By-Step Folds And Projects
 
@@ -64,7 +64,7 @@ No longer in print, this one is interesting in that it is itself a pop-up book w
 
 by Trish Phillips, Ann Montanaro
 
-As the title suggest, this has 50 well-thought out projects of varying difficulty. It also has a great section about the history or popups.
+As the title suggests, this has 50 well-thought out projects of varying difficulty. It also has a great section about the history or popups.
 
 ### Best Greeting Cards
 

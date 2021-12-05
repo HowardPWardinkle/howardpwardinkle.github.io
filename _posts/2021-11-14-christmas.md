@@ -67,4 +67,3 @@ To keep the first layer closed, it has a point on the right. The layer under it 
 * The paper is Canson Mei-Teintes Pearl Gray and Royal Blue.
 
 [^1]: Printers and cutters
-
