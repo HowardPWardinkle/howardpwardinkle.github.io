@@ -1,6 +1,6 @@
 ---
 layout: article
-synopsis: Pop-Up Supplies
+excerpt: Pop-Up Supplies
 title: Pop-Up Supplies
 aside:
   toc: true
