@@ -7,7 +7,8 @@ tags:
 - nasa
 title: April 2021 Pop-Up
 cover: /images/20210327_161328.jpg
-synopsis: A pop-up to celebrate the landing of Ingenuity on Mars.
+excerpt: A pop-up to celebrate the landing of Ingenuity on Mars.
+key: April2021
 ---
 April 2021 card. A pop-up to celebrate the landing of Ingenuity on Mars.<!--more-->
 

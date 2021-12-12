@@ -8,7 +8,8 @@ tags:
 - mice
 title: July 2021 Pop-Up
 cover: /images/cheese-house-cover.jpg
-synopsis: The mice are in the house!
+excerpt: The mice are in the house!
+key: July2021
 ---
 July 2021 card. The mice are back again.<!--more-->
 

@@ -6,7 +6,8 @@ tags:
 - holiday
 title: Christmas 2021 "Pop-Up"
 cover: /images/2021-Christmas-front.jpg
-synopsis: A zero-degree pop-up for the holidays
+excerpt: A zero-degree pop-up for the holidays
+key: Xmas2021
 ---
 Our 2021 Christmas Card<!--more-->
 

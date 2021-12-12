@@ -11,7 +11,8 @@ tags:
 - covid
 title: March 2021 Pop-Up
 cover: /images/20210228_194044.jpg
-synopsis: How can you tell if you have Covid?
+excerpt: How can you tell if you have Covid?
+key: March2021
 ---
 March 2021 card. How can you tell if you have Covid?<!--more-->
 

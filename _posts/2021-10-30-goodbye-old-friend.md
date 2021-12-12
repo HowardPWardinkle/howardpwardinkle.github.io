@@ -1,8 +1,9 @@
 ---
 # author: seekatar
-synopsis: A long time friend passes away.
+excerpt: A long time friend passes away.
 # tags: memorial memorex
 cover: /images/memorex.jpg
+key: Memorex
 ---
 ![]({{site.baseurl}}/images/memorex.jpg)
 

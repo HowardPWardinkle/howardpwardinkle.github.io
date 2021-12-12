@@ -2,7 +2,7 @@
 # author: seekatar
 layout: article
 title: Pop-up Books
-synopsis: Book Reviews
+excerpt: Book Reviews
 tags: books
 
 sharing: true

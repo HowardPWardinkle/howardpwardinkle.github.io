@@ -2,7 +2,7 @@
 # author: seekatar
 layout: article
 title: Pop-Up Terminology
-synopsis: Terminology
+excerpt: Terminology
 tags: terminology
 aside:
   toc: true
