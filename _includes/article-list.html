@@ -44,7 +44,8 @@
         {%- if _article.cover and include.show_cover-%}
           {%- include snippets/get-nav-url.html path=_article.cover -%}
           {%- assign _article_cover = __return -%}
-          <div class="item__image">
+          <a href="{{ _article_url }}">
+                      <div class="item__image">
           {%- if include.cover_size == 'lg' -%}
             <img class="image image--lg" src="{{ _article_cover }}" />
           {%- elsif include.cover_size == 'sm' -%}
@@ -53,6 +54,7 @@
             <img class="image" src="{{ _article_cover }}" />
           {%- endif -%}
           </div>
+          </a>
         {%- endif -%}
         <div class="item__content">
           <header><a href="{{ _article_url }}"><h2 itemprop="headline" class="item__header">{{ _article.title }}</h2></a></header>
