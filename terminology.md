@@ -11,13 +11,13 @@ aside:
 ## General Terms
 
 180&deg; card
-: A card the opens flat (See [Thanksgiving Turkey](/2021/10/30/thanksgiving-turkey.html))
+: A card that opens flat (See [Thanksgiving Turkey](/2021/10/30/thanksgiving-turkey.html))
 
 90&deg; card
-: A card the opens only to 90&deg;s. (See [Mars Rover](/2021/03/28/mars-rover.html))
+: A card that opens only to 90&deg;s. (See [Mars Rover](/2021/03/28/mars-rover.html))
 
-Zero&deg; card
-: A card where the design is created by layers of paper that can be opened one at a time. No 3D mechanism is involved. (See [2021 Christmas card](/2021/11/14/christmas.html))
+0&deg; card
+: A card where the design is created by layers of paper that can be opened one at a time. Not really a pop-up per se. (See [2021 Christmas card](/2021/11/14/christmas.html))
 
 ## Mechanisms
 
@@ -36,11 +36,11 @@ These tables briefly describe the basic pop-up mechanisms used for about every p
 
 | Name                     | BH1         | BH2     | CD           | Description                                                                                                                    |
 | ------------------------ | ----------- | ------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| Right-angle V Fold       | 1,2         | FS1     |              | Basic of mechanisms that stands vertically and usually opens away from the viewer.                                             |
-| Acute-angle V Fold       | 8-17        | FS2     | Fig 20,22,29 | Most common an versatile of mechanisms that form a V shape opening away or towards the viewer.                                 |
+| Right-angle V Fold       | 1,2         | FS1     |              | Basic mechanism that stands vertically and usually opens away from the viewer.                                                 |
+| Acute-angle V Fold       | 8-17        | FS2     | Fig 20,22,29 | Most common and versatile of mechanisms that form a V shape opening away or towards the viewer.                                |
 | Pointed V Fold           | 7           | FS3     |              | Similar to FS2, but very pointed.                                                                                              |
-| Obtuse-angle V Fold      | 4           | FS4     |              | A V fold with obtuse angle.                                                                                                    |
-| Asymmetric V Fold        | 30,31       | FS5     | Fig 21,23    | A V with different angles. These make popups a bit more interesting.                                                           |
+| Obtuse-angle V Fold      | 4           | FS4     |              | A V fold with an obtuse angle.                                                                                                 |
+| Asymmetric V Fold        | 30,31       | FS5     | Fig 21,23    | A V with different angles. These make pop-ups a bit more interesting.                                                          |
 | Parallel Fold            | 53-58       | FS6     | Fig 3        | A mechanism with a fold parallel to the main fold to form a triangular shape when opened 180 degrees.                          |
 | Parallelogram            | 34-36,38-39 | FS7     | Fig 1,2      | Mechanism has folds parallel to the main fold and when opened 90 degrees forms a rectangle.                                    |
 | Asymmetric-Parallel Fold |             | FS8     | Fig 4        | Similar to FS6 and FS7, only the sides are not the same length.                                                                |
@@ -49,7 +49,7 @@ These tables briefly describe the basic pop-up mechanisms used for about every p
 | Floating Plane           | 69          | FS11    | Fig 17,18    | A plane that is parallel to the base when opened 180 degrees.                                                                  |
 | Box                      | 67,70-72    | FS12    | Fig 6,7      | An enclosed box with sides parallel to the main fold.                                                                          |
 | Box                      | 68          | FS12.1  | Fig 9        | Cylindrical version                                                                                                            |
-| House                    | 49          |         |              | Popup house. Also in BH2 Project Templates section.                                                                            |
+| House                    | 49          |         |              | Pop-up house. Also in BH2 Project Templates section.                                                                           |
 | Open-topped Box          | 51          | FS13.1  | Fig 5        | Similar to FS12, with no lid.                                                                                                  |
 | Open-topped Box          |             | FS13.4  | Fig 5        | Circular version                                                                                                               |
 | Pyramids                 | 50          | FS14    | Fig 27       | Pyramid on V or parallel, as well as cones, and variations.                                                                    |
