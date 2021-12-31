@@ -26,4 +26,6 @@ titles:
 key: page-about
 ---
 
-I've been making monthly up cards for good ol' Mom since 2013. This site has a random sampling of those in random order.
+I've been making monthly pop-up cards for good ol' Mum since 2013 (over 100 as of 2021). This site contains blogs entries about a random sampling of those cards, and how they were made.
+
+There are no annoying ads on this site, but if you'd like to support it you can [Buy me a coffee ☕](https://www.buymeacoffee.com/hpwardinkle). Thanks!

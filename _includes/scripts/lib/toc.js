@@ -2,7 +2,9 @@
   var SOURCES = window.TEXT_VARIABLES.sources;
   window.Lazyload.js(SOURCES.jquery, function() {
     function toc(options) {
-      var $root = this, $window = $(window), $scrollTarget, $scroller, $tocUl = $('<ul class="toc toc--ellipsis"></ul>'), $tocLi, $headings, $activeLast, $activeCur,
+      var $root = this, $window = $(window), $scrollTarget, $scroller, $tocUl = $('<ul class="toc toc--ellipsis"></ul>'),
+        $tocUl2 = $('<ul class="toc toc--ellipsis"></ul>'),
+        $tocLi, $headings, $activeLast, $activeCur,
         selectors = 'h1,h2,h3', container = 'body', scrollTarget = window, scroller = 'html, body', disabled = false,
         headingsPos, scrolling = false, hasRendered = false, hasInit = false;
 
@@ -44,6 +46,7 @@
       function render() {
         if(!hasRendered) {
           $root.append($tocUl);
+          $root.append($tocUl2);
           $headings.each(function() {
             var $this = $(this);
             $tocUl.append($('<li></li>').addClass('toc-' + $this.prop('tagName').toLowerCase())
@@ -59,6 +62,8 @@
               scrolling = false;
             });
           });
+          $tocUl2.append($('<br><li></li>').addClass('toc-h2')
+            .append($('<a></a>').text("Buy me a coffee ☕").attr('href', "https://www.buymeacoffee.com/hpwardinkle")));
         }
         hasRendered = true;
       }
