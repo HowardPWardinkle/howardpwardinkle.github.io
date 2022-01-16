@@ -23,7 +23,7 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
+# key: page-about
 ---
 
 I've been making monthly pop-up cards for good ol' Mum since 2013 (over 100 as of 2021). This site contains blogs entries about a random sampling of those cards, and how they were made.

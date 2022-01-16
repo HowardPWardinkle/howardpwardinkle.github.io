@@ -52,7 +52,7 @@ No longer in print, this one is interesting in that it is itself a pop-up book w
 
 by Paul Jackson
 
-This was my first adult book on pop-ups. It's great book for learning the various techniques about pop-ups, which I did by doing all his designs on index cards (tiny 2&frac12;" x 1&frac34;").
+This was my first adult book on pop-ups. It's a great book for learning the various techniques about pop-ups, which I did by doing all his designs on index cards (tiny 2&frac12;" x 1&frac34;").
 
 The first section covers one-piece techniques using one sheet of paper and cutting it. Then multi-piece techniques with gluing on other pieces. Finally a section full of examples of designing pop-ups with directions for building them, as well as many examples of professional pop-ups.
 
@@ -80,7 +80,7 @@ As the title suggests, this has 50 well-thought out projects of varying difficul
 
 by Keiko Nakazawa
 
-Ondori publishes many good pop-up books, and this one has many greeting card ideas. Included are many interested 180&deg; and 90&deg; cards, and more interestingly a 360&deg; design and many 0&deg; designs. The 360&deg; is a dice cube that forms when you open the card all the way so the front and back touch. This and Chantani's book [below](/books.html#pop-up-origamic-architecture) are the only books I've found with the 0&deg; designs. I've made a couple of my own, including the 2021 Christmas card, which I blogged about.
+Ondori publishes many good pop-up books, and this one has many greeting card ideas. Included are many interesting 180&deg; and 90&deg; cards, and more interestingly a 360&deg; design and many 0&deg; designs. The 360&deg; is a dice cube that forms when you open the card all the way so the front and back touch. This and Chantani's book [below](/books.html#pop-up-origamic-architecture) are the only books I've found with the 0&deg; designs. I've made a couple of my own, including the 2021 Christmas card, which I blogged about.
 
 ### Cards that Pop Up, Flip & Slide
 
@@ -96,7 +96,7 @@ This book has many interesting card designs, many of which are pop-ups. Although
 
 by Joan Irvine (Author), Linda Hendry (Illustrator)
 
-This is the book that started it all. Once at the library with Howard Jr., I was browsing the shelves and found this book, checked it out, and starting making pop-ups. Since I enjoyed it so much, I sought out books in the taller childrens'[^1] section and really got going with [Paul Jackson's pop-up book](/books.html#the-pop-up-book-step-by-step-instructions-for-creating-over-100-original-paper-projects)
+This is the book that started it all. Once at the library with Howard Jr., I was browsing the shelves and found this book, checked it out, and started making pop-ups. Since I enjoyed it so much, I sought out books in the taller childrens'[^1] section and really got going with [Paul Jackson's pop-up book](/books.html#the-pop-up-book-step-by-step-instructions-for-creating-over-100-original-paper-projects)
 
 ## Origami Architecture
 
