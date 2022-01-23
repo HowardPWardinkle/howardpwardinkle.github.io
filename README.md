@@ -26,3 +26,5 @@ bundle exec jekyll serve --livereload
 [Liquid Doc](https://shopify.github.io/liquid/tags/iteration/)
 
 [Original Theme Readme](text_README.md)
+
+[Gif Converter](https://ezgif.com/)
