@@ -22,7 +22,7 @@ url     : https://seekatar.github.io # the base hostname & protocol for your sit
 baseurl : # does not include hostname
 title   : Howard P. Wardinkle
 description: > # this means to ignore newlines until "Language & timezone"
-  The &quot;P&quot; is for Pop-Up
+  The 'P' is for Pop-Up
 
 
 ## => Language and Timezone
