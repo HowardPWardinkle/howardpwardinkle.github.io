@@ -6,6 +6,7 @@ tags:
 - FS8
 - FS6
 - mice
+- '2021'
 title: July 2021 Pop-Up
 cover: /images/cheese-house-cover.jpg
 excerpt: The mice are in the house!

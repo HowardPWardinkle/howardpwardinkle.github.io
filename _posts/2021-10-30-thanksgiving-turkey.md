@@ -8,6 +8,7 @@ tags:
 - FS15
 - holiday
 - thanksgiving
+- '2021'
 title: November 2021 Pop-Up
 cover: /images/20211026_182320.jpg
 excerpt: Gobble, gobble!

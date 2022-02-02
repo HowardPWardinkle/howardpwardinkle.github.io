@@ -4,6 +4,7 @@ tags:
 - winter
 - christmas
 - holiday
+- '2021'
 title: Christmas 2021 "Pop-Up"
 cover: /images/2021-Christmas-front.jpg
 excerpt: A zero-degree pop-up for the holidays
