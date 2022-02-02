@@ -9,6 +9,8 @@ tags:
 - FS5
 - BT3
 - BT6
+- mice
+- '2022'
 title: February 2022 Pop-Up
 cover: /images/snowball/snowball-cover.jpg
 excerpt: Don't wake the giant.

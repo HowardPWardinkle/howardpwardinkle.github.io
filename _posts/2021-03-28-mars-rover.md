@@ -5,6 +5,7 @@ tags:
 - FS7
 - mars
 - nasa
+- '2021'
 title: April 2021 Pop-Up
 cover: /images/20210327_161328.jpg
 excerpt: A pop-up to celebrate the landing of Ingenuity on Mars.
