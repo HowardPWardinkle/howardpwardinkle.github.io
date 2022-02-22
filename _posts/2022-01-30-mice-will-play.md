@@ -1,7 +1,7 @@
 ---
 tags:
 - 180-degree
-- floating-play
+- floating-plane
 - right-angle-v-fold
 - v-fold
 - strap
