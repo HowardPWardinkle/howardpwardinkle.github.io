@@ -60,6 +60,6 @@ This is the first cover to have two frames. The background is a mix of pastels a
 
 ## Build
 
-* 9" x 6.5"
+* 9" x 6"
 * Everything else was cut by hand, except for the speech balloons on the cover, which were cut by the {{ site.cameo }}. .
 * The base is [Strathmore 300 Bristol](/supplies.html#strathmore-300-bristol) 100lb, with [PrismaColor](/supplies.html#prismacolor-colored-pencils) colored pencils for illustrations.

@@ -47,7 +47,7 @@ This is simply a pen-and-ink drawing of the cat going off to work. Mr. Jinks had
 
 ## Build
 
-* 9" x 6.5"
+* 9" x 6"
 * The mice were cut by hand using a screw punch for the small circles.
 * The base is colored paper, with a layer on top for the cover.
 * The mice, instruments, and stage are cardstock

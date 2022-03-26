@@ -44,7 +44,7 @@ For the cover, I used pastels sprinkled on through a kitchen strainer, then smud
 
 ## Build
 
-* 9" x 6.5"
+* 9" x 6"
 * {{ cameo }} to cut the feathers and vinyl lettering.
 * The base is [Strathmore 300 Bristol](/supplies.html#strathmore-300-bristol) 100lb, with pastel backgrounds and hand-torn paper.
 * The feathers are textured cardstock with a white core. I'm not usually fond of this since one side has parallel lines in the texture giving it a tendency to warp, but it does well for this mechanism.

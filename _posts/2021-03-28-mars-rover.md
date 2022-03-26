@@ -46,7 +46,7 @@ The cover's background is pastels and the logo was cut by the machine out of col
 
 ## Build
 
-* 9" x 6.5"
+* 9" x 6"
 * Since this required iteration and a high level of accuracy, it was designed on the computer and cut out with a {{site.cameo}}
 * The base is [Strathmore 300 Bristol](/supplies.html#strathmore-300-bristol) 100lb, with pastel backgrounds and cut logo on the cover.
 * The mechanism is Office Depot Bristol 100lb (but thinner than Strathmore)

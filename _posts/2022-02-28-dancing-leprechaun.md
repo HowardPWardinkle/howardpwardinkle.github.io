@@ -61,7 +61,7 @@ Cut by hand, this is a closeup technique I have used for many covers, but this i
 
 ## Build
 
-* 9" x 6.5"
+* 9" x 6"
 * The cover was cut by hand.
 * The leprechaun and background were all cut using the {{ site.cameo }}.
 * The pivots and rest of the movement were cut by hand.
