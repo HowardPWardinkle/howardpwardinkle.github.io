@@ -39,7 +39,7 @@ The sign text was printed. The rest of the imagery was drawn with a gel pen and 
 
 ## Build
 
-* 9" x 6.5"
+* 9" x 6"
 * Everything was cut by hand
 * The base is [Strathmore 300 Bristol](/supplies.html#strathmore-300-bristol) 100lb, with pastel backgrounds and [PrismaColor](/supplies.html#prismacolor-colored-pencils) colored pencils for illustrations.
 * The mechanism is cardstock

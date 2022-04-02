@@ -58,7 +58,7 @@ For the cover, I used pastels sprinkled on through a kitchen strainer, then smud
 
 ## Build
 
-* 9" x 6.5"
+* 9" x 6"
 * {{site.cameo}} to cut the circles and the speech balloon on the cover.
 * The base is [Strathmore 300 Bristol](/supplies.html#strathmore-300-bristol) 100lb, with pastel backgrounds and hand-torn paper.
 * The building is yellow cardstock.
