@@ -65,3 +65,4 @@ Cut by hand, this is a closeup technique I have used for many covers, but this i
 * The cover was cut by hand.
 * The leprechaun and background were all cut using the {{ site.cameo }}.
 * The pivots and rest of the movement were cut by hand.
+* The base is [Strathmore 300 Bristol](/supplies.html#strathmore-300-bristol) 100lb.
