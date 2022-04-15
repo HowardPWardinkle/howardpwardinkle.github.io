@@ -12,7 +12,7 @@ aside:
 show_subscribe: true
 pageview: true
 ---
-Here's a list of my favorite pop-up books. I've grouped them in general topics, but they often have overlaps. Note that all the links are paid, Amazon links.
+Here's a list of my favorite pop-up books. I've grouped them in general topics, but they often have overlaps. <!-- Note that all the links are paid, Amazon links. -->
 
 ## How-Tos
 
@@ -98,6 +98,24 @@ by Joan Irvine (Author), Linda Hendry (Illustrator)
 
 This is the book that started it all. Once at the library with Howard Jr., I was browsing the shelves and found this book, checked it out, and started making pop-ups. Since I enjoyed it so much, I sought out books in the taller childrens'[^1] section and really got going with [Paul Jackson's pop-up book](/books.html#the-pop-up-book-step-by-step-instructions-for-creating-over-100-original-paper-projects)
 
+### Paper Engineering for Pop-up Books and Cards
+
+by Mark Hiner
+
+[![Pop-ups](https://images-na.ssl-images-amazon.com/images/I/51d773GgtiL._SY160.jpg)](https://smile.amazon.com/Paper-Engineering-Pop-Up-Books-Cards/dp/0906212499)
+
+This is a fun little book of 48 pages and includes ten of the most essential pop-up mechanisms. It has clear directions for making each one with full-size patterns on heavy paper to cut out, if you so desire.
+
+### Up-Pops: Paper Engineering With Elastic Bands
+
+by Mark Hiner
+
+[![Up-pops](https://images-na.ssl-images-amazon.com/images/I/51OLUc3W0CL._SY160.jpg)](https://smile.amazon.com/Up-Pops-Paper-Engineering-Elastic-Bands/dp/0906212790/)
+
+This is a companion to Mark's other book [above](#paper-engineering-for-pop-up-books-and-cards). This covers what he calls "up-pops" which are pop-ups that are powered not by a page opening, but by a rubber band to "pop" them from flat to 3D instantly. He has ten mechanisms from cube and pyramid to more exotic shapes. Like the other book, the steps are clear and include patterns on extra heavy paper to cut and build. I still have a box with all ten built, many with rubber bands that are still working.
+
+I used his cube pattern in an [April 2022](2022/04/14/up-pop-box.html) "up-pop".
+
 ## Origami Architecture
 
 ### Great American Buildings: Origami Cutouts of Everybody's Favorite Landmarks
@@ -148,6 +166,6 @@ by Marivi Garrido, Ingrid Siliakus, Joyce Aysta
 
 This book has full-size patterns for 20 well-known architectural wonders of the world from the Colosseum in Rome to the London Eye. These ladies are amazing and the patterns included will keep you busy for a while. Each model has a page describing the history of the structure, and another clearly illustrated page about assembling the pop-up.
 
-> As an Amazon Associate I earn from qualifying purchases.
+<!-- > As an Amazon Associate I earn from qualifying purchases. -->
 
 [^1]: Adult

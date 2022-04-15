@@ -6,7 +6,7 @@ aside:
   toc: true
 tags: supplies paper materials glue
 ---
-"Hardware" and "software" I use. Note that all the links are paid, Amazon links.
+"Hardware" and "software" I use. <!-- Note that all the links are paid, Amazon links. -->
 <!--more-->
 
 ## Hardware
@@ -22,6 +22,12 @@ I love this cutting machine. According to Amazon, I purchased it on May 7, 2014,
 <a href="https://www.amazon.com/Fiskars-12-94518697WJ-Original-Handled-Scissors/dp/B00006IFN9?crid=1BXVCR781QALL&keywords=fiskars+scissors+8%22&qid=1636144753&sprefix=fiskers+%2Caps%2C179&sr=8-7&linkCode=li1&tag=seekatar-20&linkId=84cf74c9a2136951e17b8c68ff7949b5&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00006IFN9&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li1&o=1&a=B00006IFN9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 I use an 8" pair of these for almost all of my cutting, even very small, detailed cuts. I find I can get much more control with a large pair than a smaller one. I have their small sharpening tool and it keeps all my Fiskars razor sharp. I like all of the Fiskar products, and they have a lifetime guarantee. I broke an embossing tool, and they replaced it, no problem! Great service.
+
+### CrafTreat Teflon Bone Folder and Scoring Tool
+
+[![bone-folder](https://m.media-amazon.com/images/I/41RYsCsiF-L._SY160.jpg)](https://smile.amazon.com/gp/product/B07QXMM8N3)
+
+I use a bone folder to really put a hard crease on folds. One thing about doing so is that it usually leaves a shine on the paper so you need to put another piece over it to avoid that. Then I found that teflon bone folders do not have that issue. This is the one I bought, and it works great. I was skeptical about the claims of not putting a shine on the paper, but it actually it true.
 
 ## Software
 
@@ -55,4 +61,4 @@ This gives a really strong bond with some working time. I used this when gluing 
 
 This is great for gluing a piece of paper over the entire card. I used a flat piece of plastic like a trowel to put a thin, even coat on one side, then glue them together. You must then put it under a light weight while it dries, otherwise it may curl.
 
-> As an Amazon Associate I earn from qualifying purchases.
+<!-- > As an Amazon Associate I earn from qualifying purchases. -->

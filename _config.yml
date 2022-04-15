@@ -228,5 +228,6 @@ plugins:
 imageWidth: "75%"
 imageWidthThird: "25%"
 imageWidthHalf: "37%"
+adLinkWidth: "10%"
 coverWidth: "50%"
 cameo: "[Silhouette Cameo](/supplies.html#silhouette-cameo)"
