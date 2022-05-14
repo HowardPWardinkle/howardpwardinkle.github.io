@@ -166,6 +166,26 @@ by Marivi Garrido, Ingrid Siliakus, Joyce Aysta
 
 This book has full-size patterns for 20 well-known architectural wonders of the world from the Colosseum in Rome to the London Eye. These ladies are amazing and the patterns included will keep you busy for a while. Each model has a page describing the history of the structure, and another clearly illustrated page about assembling the pop-up.
 
+## Pop-up Books
+
+These are some of my favorite pop-up books that have great examples of pop-up.
+
+### One Red Dot
+
+<a href="https://www.amazon.com/Classic-Collectible-Pop-Up-Carter-2005-10-01/dp/B01FIWTXRU"><img src="https://images-na.ssl-images-amazon.com/images/I/614tiJ2u-QL._SY160.jpg"></a>
+
+by David A Carter
+
+### 600 Black Spots
+
+<a href="https://www.amazon.com/David-Carter600-Black-Spots-Collectible/dp/B014GKOKJ6"><img src="https://images-na.ssl-images-amazon.com/images/I/51OvaaHPgGL._SY160.jpg"></a>
+
+### Blue 2
+
+by David A Carter
+
+<a href="https://www.amazon.com/Blue-Pop-up-Book-Children-Ages/dp/1416917810"><img src="https://images-na.ssl-images-amazon.com/images/I/51jd9-lvZPL._SY160.jpg"></a>
+
 <!-- > As an Amazon Associate I earn from qualifying purchases. -->
 
 [^1]: Adult
