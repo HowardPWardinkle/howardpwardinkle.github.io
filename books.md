@@ -72,6 +72,14 @@ by Trish Phillips, Ann Montanaro
 
 As the title suggests, this has 50 well-thought out projects of varying difficulty. It also has a great section about the history or pop-ups.
 
+### New Pop-Up Paper Projects
+
+[![Pop-ups](https://images-na.ssl-images-amazon.com/images/I/51rF+ayU8+L._SY160.jpg)](https://www.amazon.com/Pop-Up-Paper-Projects-Step-step/dp/0415679311)
+
+by Paul Johnson
+
+This is by Paul Johnson, not to be confused with Paul Jackson mentioned above. This book is targeted at teachers and has many, many different examples of pop-ups, most of which are designed by school children. Don't let that fool you into thinking this is a trivial book. He covers all the basic pop-up mechanism and then gets into some pretty interesting and advanced variations. Most of the illustrations, are small and hand-drawn, which can make them less clear than a photograph, or mechanically drawn images.
+
 ## Cards
 
 ### Best Greeting Cards
