@@ -4,10 +4,10 @@ tags:
 - floating-plane
 - FS11
 - '2022'
-title: August 2022 Pop-Up
+title: September 2022 Pop-Up
 cover: /images/2209/cover.jpg
 excerpt: 'Study in black and white III'
-key: August2022
+key: September2022
 ---
 September 2022 card.
 
