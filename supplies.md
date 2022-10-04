@@ -43,6 +43,12 @@ Nice, heavy paper for the base of cards. You can get smooth, or slightly texture
 
 I used these often for coloring smaller items. They are wax-based and you'll want to get a blending pencil to achieve smooth effects.
 
+### Faber-Castell Pitt Artist Pens
+
+[![Pitt Artist Pens](https://images-na.ssl-images-amazon.com/images/I/71vmwiBMNfL.__SY160.jpg)](https://www.amazon.com/Pigmented-Drawing-Artist-Widths-Castell/dp/B003IGID52)
+
+I have the set of four Pitt Artist pens which like better than the gel pens I used before. The ink is nice and black, dries quickly and does not smear.
+
 ### Elmer's Craft Bond Extra-Strength Glue Stick
 
 <a href="https://www.amazon.com/Elmers-CraftBond-Extra-Strength-Stick/dp/B0019CYW8Y?crid=2LNEVUIHC65UD&keywords=elmers+glue+stick+extra+strength&qid=1636143626&sprefix=elemers+glue+stick+ext%2Caps%2C166&sr=8-6&linkCode=li1&tag=seekatar-20&linkId=a9cdfbd21ce28f38f3185667e6c0775f&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0019CYW8Y&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li1&o=1&a=B0019CYW8Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -60,5 +66,11 @@ This gives a really strong bond with some working time. I used this when gluing 
 <a href="https://www.amazon.com/GANE-ADH0901-All-Purpose-Stik-1-Pint/dp/B000S10SNU?keywords=yes+past&qid=1636145092&sr=8-1&linkCode=li1&tag=seekatar-20&linkId=d598dc36223e0238536d495bdd6354c8&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000S10SNU&Format=_SL110_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li1&o=1&a=B000S10SNU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 This is great for gluing a piece of paper over the entire card. I used a flat piece of plastic like a trowel to put a thin, even coat on one side, then glue them together. You must then put it under a light weight while it dries, otherwise it may curl.
+
+## Zig 2 Way Glue Stick
+
+[![Zig 2 Way Glue](https://m.media-amazon.com/images/I/71IYYA9CKvL._SY160.jpg)](https://www.amazon.com/Kuretake-ZIG-Stick-Broad-AP-Certified/dp/B07BKY2KF1)
+
+A friend recommended this glue stick saying it will glue two pieces of paper flat, which most glues will not do. It does keep flat better than most (although I'll still usually put the work under light weight to dry, just to keep it flat). If you attach while wet (glue is blue), it will be permanent, if you let it dry to clear, it remains tacky, creating a temporary bond (hence the two way). If you need working time, do note use this. Once you set down the blue glue, it's very difficult to move.
 
 <!-- > As an Amazon Associate I earn from qualifying purchases. -->
