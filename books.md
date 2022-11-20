@@ -80,24 +80,6 @@ by Paul Johnson
 
 This is by Paul Johnson, not to be confused with Paul Jackson mentioned above. This book is targeted at teachers and has many, many different examples of pop-ups, most of which are designed by school children. Don't let that fool you into thinking this is a trivial book. He covers all the basic pop-up mechanism and then gets into some pretty interesting and advanced variations. Most of the illustrations, are small and hand-drawn, which can make them less clear than a photograph, or mechanically drawn images.
 
-## Cards
-
-### Best Greeting Cards
-
-<a href="https://www.amazon.com/Pop-Up-Greeting-Cards-Origami-Classroom/dp/0870409646?keywords=nakazawa+cards&qid=1636903473&sr=8-11&linkCode=li2&tag=seekatar-20&linkId=db4c44d1669d161dbcad4b5e0f102e5b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0870409646&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0870409646" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-by Keiko Nakazawa
-
-Ondori publishes many good pop-up books, and this one has many greeting card ideas. Included are many interesting 180&deg; and 90&deg; cards, and more interestingly a 360&deg; design and many 0&deg; designs. The 360&deg; is a dice cube that forms when you open the card all the way so the front and back touch. This and Chantani's book [below](/books.html#pop-up-origamic-architecture) are the only books I've found with the 0&deg; designs. I've made a couple of my own, including the 2021 Christmas card, which I blogged about.
-
-### Cards that Pop Up, Flip & Slide
-
-<a href="https://www.amazon.com/Cards-that-Pop-Flip-Slide/dp/1581805969?crid=3LOBJDFLWVTZ5&keywords=cards+that+pop+up%2C+flip+%26+slide+book&qid=1640804099&sprefix=cards+that+pop+up%2Caps%2C82&sr=8-1&linkCode=li2&tag=seekatar-20&linkId=bca64d5449f48151a2db516775460702&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1581805969&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=1581805969" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-by Michael Jacobs
-
-This book has many interesting card designs, many of which are pop-ups. Although it does not include patterns, the directions are clear enough for you to create some great cards. I have used this book for ideas on several of my cards.
-
 ### How to Make Super Pop-Ups
 
 <a href="https://www.amazon.com/Super-Pop-Ups-Dover-Origami-Papercraft/dp/0486465896?crid=WQFF3A1O4A88&keywords=pop-up+how+to&qid=1640804331&sprefix=pop-up+how+to%2Caps%2C75&sr=8-5&linkCode=li2&tag=seekatar-20&linkId=9f8dbc421c360c3ed83c272fa20560d6&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0486465896&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0486465896" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
@@ -123,6 +105,32 @@ by Mark Hiner
 This is a companion to Mark's other book [above](#paper-engineering-for-pop-up-books-and-cards). This covers what he calls "up-pops" which are pop-ups that are powered not by a page opening, but by a rubber band to "pop" them from flat to 3D instantly. He has ten mechanisms from cube and pyramid to more exotic shapes. Like the other book, the steps are clear and include patterns on extra heavy paper to cut and build. I still have a box with all ten built, many with rubber bands that are still working.
 
 I used his cube pattern in an [April 2022](2022/04/14/up-pop-box.html) "up-pop".
+
+### Kirigami: The Art of 3-dimensional Paper Cutting
+
+by Laura Badalucco
+
+[![Kirigami](https://m.media-amazon.com/images/I/51YPTFB4NRL._SY160.jpg)](https://www.amazon.com/Kirigami-Art-3-dimensional-Paper-Cutting/dp/0806944544)
+
+This could go in the [Origami Architecture](#origami-architecture) section since OA is Kirigami (cutting and folding only, no pasting on). This book has many examples of Kirigami from abstract, to architecture, to figurative. You will see similar models in the Ondori books by Nakazawa, and Chatani listed below.
+
+## Cards
+
+### Best Greeting Cards
+
+<a href="https://www.amazon.com/Pop-Up-Greeting-Cards-Origami-Classroom/dp/0870409646?keywords=nakazawa+cards&qid=1636903473&sr=8-11&linkCode=li2&tag=seekatar-20&linkId=db4c44d1669d161dbcad4b5e0f102e5b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0870409646&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0870409646" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+by Keiko Nakazawa
+
+Ondori publishes many good pop-up books, and this one has many greeting card ideas. Included are many interesting 180&deg; and 90&deg; cards, and more interestingly a 360&deg; design and many 0&deg; designs. The 360&deg; is a dice cube that forms when you open the card all the way so the front and back touch. This and Chantani's book [below](/books.html#pop-up-origamic-architecture) are the only books I've found with the 0&deg; designs. I've made a couple of my own, including the 2021 Christmas card, which I blogged about.
+
+### Cards that Pop Up, Flip & Slide
+
+<a href="https://www.amazon.com/Cards-that-Pop-Flip-Slide/dp/1581805969?crid=3LOBJDFLWVTZ5&keywords=cards+that+pop+up%2C+flip+%26+slide+book&qid=1640804099&sprefix=cards+that+pop+up%2Caps%2C82&sr=8-1&linkCode=li2&tag=seekatar-20&linkId=bca64d5449f48151a2db516775460702&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1581805969&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=1581805969" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+by Michael Jacobs
+
+This book has many interesting card designs, many of which are pop-ups. Although it does not include patterns, the directions are clear enough for you to create some great cards. I have used this book for ideas on several of my cards.
 
 ## Origami Architecture
 
