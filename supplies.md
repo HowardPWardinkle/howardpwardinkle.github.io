@@ -67,7 +67,7 @@ This gives a really strong bond with some working time. I used this when gluing 
 
 This is great for gluing a piece of paper over the entire card. I used a flat piece of plastic like a trowel to put a thin, even coat on one side, then glue them together. You must then put it under a light weight while it dries, otherwise it may curl.
 
-## Zig 2 Way Glue Stick
+### Zig 2 Way Glue Stick
 
 [![Zig 2 Way Glue](https://m.media-amazon.com/images/I/71IYYA9CKvL._SY160.jpg)](https://www.amazon.com/Kuretake-ZIG-Stick-Broad-AP-Certified/dp/B07BKY2KF1)
 
