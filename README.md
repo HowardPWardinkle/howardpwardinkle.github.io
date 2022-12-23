@@ -8,11 +8,25 @@ https://howardpwardinkle.github.io/
 [Doc](https://jekyllrb.com/docs/)
 [Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
 
-```
+```bash
 jekyll serve --livereload
 ```
 
+After installing Ruby 3.0, Jekyll, and Bundler, I had to install the webrick gem to get the site to build.
+
+```bash
+bash: /home/jim/gems/bin/bundle: /usr/bin/ruby2.7: bad interpreter: No such file or directory
+
+gem install bundler
+
+/usr/bin/env: ‘ruby2.7’: Not a directory
+gem install jekyll bundler
+
+
+bundle add webrick
 ```
+
+```bash
 bundle install
 gem build
 
