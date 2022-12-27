@@ -92,7 +92,7 @@ This is the book that started it all. Once at the library with Howard Jr., I was
 
 by Mark Hiner
 
-[![Pop-ups](https://images-na.ssl-images-amazon.com/images/I/51d773GgtiL._SY160.jpg)](https://smile.amazon.com/Paper-Engineering-Pop-Up-Books-Cards/dp/0906212499)
+[![Pop-ups](https://images-na.ssl-images-amazon.com/images/I/51d773GgtiL._SY160.jpg)](https://www.amazon.com/Paper-Engineering-Pop-Up-Books-Cards/dp/0906212499)
 
 This is a fun little book of 48 pages and includes ten of the most essential pop-up mechanisms. It has clear directions for making each one with full-size patterns on heavy paper to cut out, if you so desire.
 
@@ -100,7 +100,7 @@ This is a fun little book of 48 pages and includes ten of the most essential pop
 
 by Mark Hiner
 
-[![Up-pops](https://images-na.ssl-images-amazon.com/images/I/51OLUc3W0CL._SY160.jpg)](https://smile.amazon.com/Up-Pops-Paper-Engineering-Elastic-Bands/dp/0906212790/)
+[![Up-pops](https://images-na.ssl-images-amazon.com/images/I/51OLUc3W0CL._SY160.jpg)](https://www.amazon.com/Up-Pops-Paper-Engineering-Elastic-Bands/dp/0906212790/)
 
 This is a companion to Mark's other book [above](#paper-engineering-for-pop-up-books-and-cards). This covers what he calls "up-pops" which are pop-ups that are powered not by a page opening, but by a rubber band to "pop" them from flat to 3D instantly. He has ten mechanisms from cube and pyramid to more exotic shapes. Like the other book, the steps are clear and include patterns on extra heavy paper to cut and build. I still have a box with all ten built, many with rubber bands that are still working.
 
@@ -184,7 +184,17 @@ This book has full-size patterns for 20 well-known architectural wonders of the 
 
 ## Pop-up Books
 
-These are some of my favorite pop-up books that have great examples of pop-up.
+These are some of my favorite pop-up books that have great examples of mechanisms. Anything by these authors is worth getting.
+
+* [David A. Carter](https://www.amazon.com/stores/David-A.-Carter/author/B001I9P0FC)
+* [Robert Sabuda](https://www.amazon.com/stores/Robert-Sabuda/author/B001H6NSBY)
+* [Matthew Reinhart](https://www.amazon.com/stores/Matthew-Reinhart/author/B001IGLXMO)
+
+### Alice's Adventures in Wonderland: A Pop-up Adaptation
+
+<a href="https://www.amazon.com/Alices-Adventures-Wonderland-Pop-up-Adaptation/dp/0689847432"><img src="https://m.media-amazon.com/images/I/51gOr3-pzjL._SY160.jpg"></a>
+
+by Lewis Carroll (Author), Robert Sabuda (Illustrator)
 
 ### One Red Dot
 
