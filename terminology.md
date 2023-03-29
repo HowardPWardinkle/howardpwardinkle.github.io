@@ -102,9 +102,10 @@ These tables briefly describe the basic pop-up mechanisms used for about every p
 
 ### Other Mechanisms
 
-| Name           | BH1   | BH2 | CD     | Description                                                               |
-| -------------- | ----- | --- | ------ | ------------------------------------------------------------------------- |
-| Stage Set      | 118   |     |        | Used in carousel books, multiple folds to create layers of a scene        |
-| Shutter Scene  | 119   |     |        | Pulling two tabs outwards creates a 3D scene                              |
-| Sawing Noise   | 120   |     | Fig 14 | Saw-like pieces make a sound when opening                                 |
-| Woven Dissolve | 92,93 |     |        | Older mechanism that changes from one image to another with a pull strap. |
+| Name                   | BH1   | BH2 | CD     | Description                                                               |
+| ---------------------- | ----- | --- | ------ | ------------------------------------------------------------------------- |
+| Stage Set              | 118   |     |        | Used in carousel books, multiple folds to create layers of a scene        |
+| Shutter Scene          | 119   |     |        | Pulling two tabs outwards creates a 3D scene                              |
+| Sawing Noise           | 120   |     | Fig 14 | Saw-like pieces make a sound when opening                                 |
+| Woven Dissolve         | 92,93 |     |        | Older mechanism that changes from one image to another with a pull strap. |
+| Off Center Stuffed Box |       |     | Fig 49 | A box on one side of a fold that opens with a strap                       |
