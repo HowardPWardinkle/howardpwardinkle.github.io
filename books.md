@@ -46,6 +46,14 @@ by James Diaz, David A. Carter
 
 No longer in print, this one is interesting in that it is itself a pop-up book with examples of many mechanisms. Each little pop-up has a paragraph explaining it with the pop-up itself annotated with notes about angles and dimensions. Other mechanisms such as pull tabs and wheels are also covered. You get to see all the details of a mechanism from cut outs, or being able to see the back of it. In addition to the working samples and directions, you can get the diagrams for all the mechanisms from David Carter's [site](http://www.popupbooks.com/surprise.html)
 
+### The Complexities of Pop-Up
+
+[![Pop-ups](https://m.media-amazon.com/images/I/41VNU7-rfJL._SY160.jpg)](https://www.amazon.com/Complexities-Pop-Up-David-Carter/dp/1733875115)
+
+by James Diaz, David A. Carter
+
+This is a follow-up to _Elements of Pop-Up_, which they take the basic mechanisms from that book and show how to combine them to make more complex ones. Like the other book, it is a pop-up book itself with a small pop-up of each mechanism they show. And like the previous book, all the diagrams are available online. Published by [PopositionPress](https://www.popositionpress.com/editions/the-complexities-of-pop-up/)
+
 ### The Pop-Up Book: Step-by-Step Instructions for Creating Over 100 Original Paper Projects
 
 <a href="https://www.amazon.com/gp/product/0805028846?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=16587a5c3b580eff44fcc37e6fed8b8c&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0805028846&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0805028846" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
