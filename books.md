@@ -219,6 +219,14 @@ by David A Carter
 
 <a href="https://www.amazon.com/Blue-Pop-up-Book-Children-Ages/dp/1416917810"><img src="https://images-na.ssl-images-amazon.com/images/I/51jd9-lvZPL._SY160.jpg"></a>
 
+### ABC3D
+
+by Marion Bataille
+
+[![ABC3D](https://m.media-amazon.com/images/I/41b+4rqsWOL._SY160.jpg)](https://www.amazon.com/ABC3D-Marion-Bataille/dp/1596434252)
+
+This is a tour de force of ABCs. Each spread has one or two letters that pop up different ways. There are some very clever mechanisms in this book, and I thoroughly enjoyed it. Her successor, [10](https://www.amazon.com/10-Marion-Bataille/dp/1596436824), is (as you can imagine) the numbers 1 to 10, but is not nearly the calibre of __ABC3D__.
+
 <!-- > As an Amazon Associate I earn from qualifying purchases. -->
 
 [^1]: Adult
