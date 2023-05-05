@@ -18,7 +18,7 @@ Here's a list of my favorite pop-up books. I've grouped them in general topics, 
 
 ### Pop-Up Design and Paper Mechanics: How to Make Folding Paper Sculpture
 
-<a href="https://www.amazon.com/gp/product/1784945145?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=9ce0d2fcced465127a04acaaa1c8a59a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1784945145&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=1784945145" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Pop-Up Design and Paper Mechanics: How to Make Folding Paper Sculpture](https://m.media-amazon.com/images/I/41c6xa8FZHL._SY160.jpg)](https://www.amazon.com/gp/product/1784945145)
 
 by Duncan Birmingham
 
@@ -30,7 +30,7 @@ In this blog I will refer to the mechanism with the numbers from this book. For 
 
 ### Pop Up!: A Manual of Paper Mechanisms
 
-<a href="https://www.amazon.com/gp/product/1899618090?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=a037ef5afd92260b015da2ab66488c25&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1899618090&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=1899618090" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Pop Up!: A Manual of Paper Mechanisms](https://m.media-amazon.com/images/I/41Z18630K1L._SY160.jpg)](https://www.amazon.com/gp/product/1899618090)
 
 by Duncan Birmingham
 
@@ -40,7 +40,7 @@ As an aspiring paper engineer, I created every one of the pop-ups of this book o
 
 ### The Elements of Pop-Up
 
-<a href="https://www.amazon.com/gp/product/0689822243?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=c95e5a13fd1193d3ab46920e5f7e4e4a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0689822243&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0689822243" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![The Elements of Pop-Up](https://m.media-amazon.com/images/I/41c6xa8FZHL._SY160.jpg)](https://www.amazon.com/gp/product/1784945145)
 
 by James Diaz, David A. Carter
 
@@ -56,7 +56,7 @@ This is a follow-up to _Elements of Pop-Up_, which they take the basic mechanism
 
 ### The Pop-Up Book: Step-by-Step Instructions for Creating Over 100 Original Paper Projects
 
-<a href="https://www.amazon.com/gp/product/0805028846?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=16587a5c3b580eff44fcc37e6fed8b8c&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0805028846&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0805028846" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![The Pop-Up Book: Step-by-Step Instructions for Creating Over 100 Original Paper Projects](https://m.media-amazon.com/images/I/41x5tw0HSsL._SY160.jpg)](https://www.amazon.com/gp/product/0805028846)
 
 by Paul Jackson
 
@@ -66,7 +66,7 @@ The first section covers one-piece techniques using one sheet of paper and cutti
 
 ### Cut and Fold Techniques for Pop-Up Designs
 
-<a href="https://www.amazon.com/gp/product/1780673272?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=b369ceb548113e14bec77c75bd3c5be7&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1780673272&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=1780673272" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Cut and Fold Techniques for Pop-Up Designs](https://m.media-amazon.com/images/I/41g7Cgj3Z8L._SY160.jpg)](https://www.amazon.com/gp/product/1780673272)
 
 by Paul Jackson
 
@@ -74,7 +74,7 @@ This is one of a series of four books about folding paper by Paul Jackson. As th
 
 ### Creative Pop-Up: A History And Project Book: A Fascinating Introduction To Paper Engineering, With 50 Step-By-Step Folds And Projects
 
-<a href="https://www.amazon.com/gp/product/1780193025?ie=UTF8&linkCode=li2&tag=seekatar-20&linkId=4912794cec063b4e622b397f15a4bdbf&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1780193025&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=1780193025" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Creative Pop-Up](https://m.media-amazon.com/images/I/510d8tKi84L._SY160.jpg)](https://www.amazon.com/gp/product/1780193025)
 
 by Trish Phillips, Ann Montanaro
 
@@ -90,7 +90,7 @@ This is by Paul Johnson, not to be confused with Paul Jackson mentioned above. T
 
 ### How to Make Super Pop-Ups
 
-<a href="https://www.amazon.com/Super-Pop-Ups-Dover-Origami-Papercraft/dp/0486465896?crid=WQFF3A1O4A88&keywords=pop-up+how+to&qid=1640804331&sprefix=pop-up+how+to%2Caps%2C75&sr=8-5&linkCode=li2&tag=seekatar-20&linkId=9f8dbc421c360c3ed83c272fa20560d6&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0486465896&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0486465896" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![How to Make Super Pop-Ups](https://m.media-amazon.com/images/I/51ZZMSgh1qL._SY160.jpg)](https://www.amazon.com/Super-Pop-Ups-Dover-Origami-Papercraft/dp/0486465896)
 
 by Joan Irvine (Author), Linda Hendry (Illustrator)
 
@@ -126,7 +126,7 @@ This could go in the [Origami Architecture](#origami-architecture) section since
 
 ### Best Greeting Cards
 
-<a href="https://www.amazon.com/Pop-Up-Greeting-Cards-Origami-Classroom/dp/0870409646?keywords=nakazawa+cards&qid=1636903473&sr=8-11&linkCode=li2&tag=seekatar-20&linkId=db4c44d1669d161dbcad4b5e0f102e5b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0870409646&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0870409646" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Best Greeting Cards](https://m.media-amazon.com/images/I/518KKH2-WFL._SY160.jpg)](https://www.amazon.com/Pop-Up-Greeting-Cards-Origami-Classroom/dp/0870409646)
 
 by Keiko Nakazawa
 
@@ -134,7 +134,7 @@ Ondori publishes many good pop-up books, and this one has many greeting card ide
 
 ### Cards that Pop Up, Flip & Slide
 
-<a href="https://www.amazon.com/Cards-that-Pop-Flip-Slide/dp/1581805969?crid=3LOBJDFLWVTZ5&keywords=cards+that+pop+up%2C+flip+%26+slide+book&qid=1640804099&sprefix=cards+that+pop+up%2Caps%2C82&sr=8-1&linkCode=li2&tag=seekatar-20&linkId=bca64d5449f48151a2db516775460702&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1581805969&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=1581805969" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Cards that Pop Up, Flip & Slide](https://m.media-amazon.com/images/I/51lhPOAMLkL._SY160.jpg)](https://m.media-amazon.com/images/I/51lhPOAMLkL._SX384_BO1,204,203,200_.jpg)
 
 by Michael Jacobs
 
@@ -144,7 +144,7 @@ This book has many interesting card designs, many of which are pop-ups. Although
 
 ### Great American Buildings: Origami Cutouts of Everybody's Favorite Landmarks
 
-<a href="https://www.amazon.com/Great-American-Buildings-Everybodys-Landmarks/dp/4770015380?crid=36F6NC8W517T&keywords=great+american+buildings&qid=1640803692&sprefix=great+american+buildings%2Caps%2C84&sr=8-7&linkCode=li2&tag=seekatar-20&linkId=4e21679e0bcf70a3e713d040c64c5fbc&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4770015380&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=4770015380" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Great American Buildings](https://m.media-amazon.com/images/I/51B8R98WBJL._SY160.jpg)](https://www.amazon.com/Great-American-Buildings-Everybodys-Landmarks/dp/4770015380)
 
 by Masahiro Chatani, Keiko Nakazawa
 
@@ -152,7 +152,7 @@ A large format book that includes 25 OA designs of American buildings including 
 
 ### Paper Magic: Pop-Up Paper Craft
 
-<a href="https://www.amazon.com/Paper-Magic-Pop-Up-Craft/dp/0870407570?keywords=paper+magic+chatani&qid=1639348035&sr=8-1&linkCode=li2&tag=seekatar-20&linkId=6eb48eaa00d58a2ec07665ff08be5e8d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0870407570&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0870407570" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Paper Magic: Pop-Up Paper Craft](https://m.media-amazon.com/images/I/513DhtR-7SL._SY160.jpg)](https://www.amazon.com/Paper-Magic-Pop-Up-Craft/dp/0870407570)
 
 by Masahiro Chatani
 
@@ -160,7 +160,7 @@ Another Ondori publication. I try to get all of Masahiro Chatani's books. They h
 
 ### Pop-Up Origamic Architecture
 
-<a href="https://www.amazon.com/gp/product/0870406566?&linkCode=li2&tag=seekatar-20&linkId=3a583f63808e7fca6eac8750fc462b03&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0870406566&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0870406566" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Pop-Up Origamic Architecture](https://m.media-amazon.com/images/I/51GSOCuCx3L._SY160.jpg)](https://www.amazon.com/gp/product/0870406566)
 
 by Masahiro Chatani
 
@@ -168,15 +168,14 @@ Similar to the book above, but with different patterns. This has some 0&deg; des
 
 ### Pop-Up Greeting Cards: A Creative Personal Touch for Every Occasion
 
-<a href="https://www.amazon.com/Pop-Up-Greeting-Cards-Creative-Personal/dp/0870407333?keywords=pop-up+greeting+cards+chatani&qid=1639348622&s=books&sr=1-1&linkCode=li2&tag=seekatar-20&linkId=6b44c0e6aa4719d1c5b9a2f5894855cc&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=0870407333&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=0870407333" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
+[![Pop-Up Greeting Cards](https://m.media-amazon.com/images/I/51FH7Y6KRYL._SY160.jpg)](https://www.amazon.com/Pop-Up-Greeting-Cards-Creative-Personal/dp/0870407333)
 by Masahiro Chatani
 
 Similar to the books above. The title suggests that it's geared toward cards, but it has many buildings and other topics. As usual, all the patterns are included.
 
 ### Pattern Sheets of Origamic Architecture
 
-<a href="https://www.amazon.com/gp/product/4395270123?&linkCode=li2&tag=seekatar-20&linkId=f3cadfd0c97a78c92eb701d6ad2cf5db&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=4395270123&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=4395270123" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![Pattern Sheets of Origamic Architecture](https://m.media-amazon.com/images/I/51Bbe1JUqnL._SY160.jpg)](https://www.amazon.com/gp/product/4395270123)
 
 by Masahiro Chatani
 
@@ -184,7 +183,7 @@ In Japanese, this book has 77 building OA designs that Masahiro Chatani created 
 
 ### The Paper Architect: Fold-it-yourself Buildings and Structures with 20 Ready-to-Use Templates
 
-<a href="https://www.amazon.com/Paper-Architect-Fold-Yourself-Structures/dp/030745147X?keywords=paper+architecture&qid=1639348775&s=books&sr=1-4&linkCode=li2&tag=seekatar-20&linkId=15358fae1e0a51041fc517fc701a3411&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=030745147X&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=seekatar-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=seekatar-20&language=en_US&l=li2&o=1&a=030745147X" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+[![The Paper Architect](https://m.media-amazon.com/images/I/510VDj+HzIL._SY160.jpg)](https://www.amazon.com/Paper-Architect-Fold-Yourself-Structures/dp/030745147X)
 
 by Marivi Garrido, Ingrid Siliakus, Joyce Aysta
 
@@ -219,6 +218,14 @@ by David A Carter
 by David A Carter
 
 <a href="https://www.amazon.com/Blue-Pop-up-Book-Children-Ages/dp/1416917810"><img src="https://images-na.ssl-images-amazon.com/images/I/51jd9-lvZPL._SY160.jpg"></a>
+
+### ABC3D
+
+by Marion Bataille
+
+[![ABC3D](https://m.media-amazon.com/images/I/41b+4rqsWOL._SY160.jpg)](https://www.amazon.com/ABC3D-Marion-Bataille/dp/1596434252)
+
+This is a tour de force of ABCs. Each spread has one or two letters that pop up different ways. There are some very clever mechanisms in this book, and I thoroughly enjoyed it. Her successor, [10](https://www.amazon.com/10-Marion-Bataille/dp/1596436824), is (as you can imagine) the numbers 1 to 10, but is not nearly the calibre of __ABC3D__.
 
 <!-- > As an Amazon Associate I earn from qualifying purchases. -->
 
