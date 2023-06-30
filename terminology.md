@@ -109,3 +109,4 @@ These tables briefly describe the basic pop-up mechanisms used for about every p
 | Sawing Noise           | 120   |     | Fig 14 | Saw-like pieces make a sound when opening                                 |
 | Woven Dissolve         | 92,93 |     |        | Older mechanism that changes from one image to another with a pull strap. |
 | Off Center Stuffed Box |       |     | Fig 49 | A box on one side of a fold that opens with a strap                       |
+| Angle Fold Straps      |       |     | Fig 65 | Pyramid-like V-fold                                                       |
