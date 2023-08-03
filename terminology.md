@@ -30,7 +30,7 @@ These tables briefly describe the basic pop-up mechanisms used for about every p
 : [Pop-Up Design and Paper Mechanics: How to Make Folding Paper Sculpture](/books.html#pop-up-design-and-paper-mechanics-how-to-make-folding-paper-sculpture)
 
 `CD`
-: [The Elements of Pop-Up](/books.html#the-elements-of-pop-up).
+: [The Elements of Pop-Up](/books.html#the-elements-of-pop-up) and The [Complexities of Pop-Up](/books.html#the-complexities-of-pop-up)
 
 ### Foundation Shapes
 
