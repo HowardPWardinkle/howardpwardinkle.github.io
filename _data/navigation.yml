@@ -5,6 +5,8 @@ header:
     url: /supplies.html
   - title: Terms
     url: /terminology.html
+  - title: Opus
+    url: /catalog.html
   - titles:
       # @start locale config
       en      : &EN       Archive
