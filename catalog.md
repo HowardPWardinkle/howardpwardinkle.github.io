@@ -68,7 +68,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | [August](/2023/07/22/august.html)       | Loyal Health company logo            |
 | [September](/2023/08/28/september.html) | 🐱‍👤 Bremen Town Musicians             |
 | [October](/2023/10/01/october.html)     | 🐭 Haunted house                      |
-| November                                |
+| [November](/2023/10/29/november.html)   | Dark meat turkey                     |
 | December                                |
 | Birthday                                |
 
