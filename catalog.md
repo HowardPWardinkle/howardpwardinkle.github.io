@@ -40,7 +40,7 @@ Usually I'll make about a dozen cards for Christmas for friends and worthy famil
 
 ## Origami Architecture Extras
 
-Occasionally I'll take a OA pattern from a book of famous buildings and send it as a bonus.
+Occasionally I'll take a OA pattern from a book of famous buildings and send it as a bonus. Most of these are from [Great American Buildings](/books.html#great-american-buildings-origami-cutouts-of-everybodys-favorite-landmarks)
 
 | Year | Subject                |
 | ---- | ---------------------- |
@@ -93,7 +93,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | [April](/2022/03/26/bridge.html)             | 🐭 Playing card bridge          |
 | [March](/2022/02/28/dancing-leprechaun.html) | Leprechaun                     |
 | [February](/2022/01/23/snowball-fight.html)  | 🐭 🐱‍👤 Caterpillar snow machine  |
-| January                                      | Pattern from a book            |
+| January                                      | [Chatani](/books.html#pop-up-origamic-architecture) pattern, p57 |
 
 ## 2021
 
@@ -150,7 +150,7 @@ Covid cards appear. I end up with a total of four, and I hope that's the last of
 | September                                    | Four Oarsmen                      |
 | August                                       | Disk golf                         |
 | July                                         | Rainbow thrower, Shel Silverstein |
-| June                                         | 🐱‍👤 Cat on stairs, from a book     |
+| June                                         | 🐱‍👤 Cat on stairs, p29 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) |
 | Mother's Day                                 | Chatani blue flower               |
 | May                                          | 🐭 Three blind mice                |
 | April                                        | Tide                              |
@@ -205,18 +205,18 @@ November marks the first appearance of the mice! 🐭
 
 | Month                                       | Topic                                               |
 | ------------------------------------------- | --------------------------------------------------- |
-| Birthday                                    | 360&deg; package                                    |
-| December                                    | Chrysanthemum from a book                           |
+| Birthday                                    | 360&deg; gift package, [Nakazawa](/books.html#best-greeting-cards) p44 |
+| December                                    | [Nakazawa](/books.html#best-greeting-cards) Chrysanthemum flower p55 |
 | [November](/2022/01/30/mice-will-play.html) | 🐭 The Mice will PLAY! First appearance of the mice. |
 | October                                     | Pumpkin & ghosts                                    |
-| September                                   | Cosmo flower from book                              |
+| September                                   | [Nakazawa](/books.html#best-greeting-cards) Cosmo flower p57         |
 | August                                      | Lear limerick with a boat                           |
-| July                                        | Old house at 230                                    |
-| June                                        | Hydrangea from a book                               |
+| July                                        | Old house at 230 OA                                    |
+| June                                        | [Nakazawa](/books.html#best-greeting-cards) Hydrangea flower p58     |
 | Mother's Day                                | Spelling it out                                     |
 | May                                         | 🐱‍👤 Cat's favorite things                            |
 | April                                       | Two images in one card                              |
-| March                                       | Cape Jasmine flower from book                       |
+| March                                       | [Nakazawa](/books.html#best-greeting-cards) Cape Jasmine flower p55  |
 | February                                    | 🐱‍👤 Choose wisely                                    |
 | January                                     | Don Quixote tilting at windmill                     |
 
@@ -242,18 +242,18 @@ Series of twelve cards about pop-ups, and...
 | October         | 🐱‍👤 Cat lantern                   |
 | Birthday        | For fencing coach                |
 | Jr's Birthday   | Cargo burp                       |
-| September       | 🐱‍👤 Cat on stairs from book       |
+| September       | Stairs (small 🐱‍👤) from, p29 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) |
 | August          | 🐱‍👤 Howard Jr as a cat            |
 | Birthday        | 50th for a friend                |
 | July            | Philadelphia                     |
 | June            | 🐱‍👤 Nice & bitey cat              |
-| Mother's Day II | Flowers basket from book         |
+| Mother's Day II | [Nakazawa](/books.html#best-greeting-cards) Flowers basket p99                                                           |
 | Mother's Day    | Flowers                          |
-| May             | Chatani pattern                  |
+| May             | [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) pattern p35                    |
 | April           | Bookmark                         |
 | March           | Tunnel                           |
 | February        | Up-pop flower                    |
-| January         | Chantani Tree                    |
+| January         | [Chantani](/books.html#paper-magic-pop-up-paper-craft) Tree p60                                                          |
 
 ## 2013
 
