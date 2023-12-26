@@ -242,7 +242,7 @@ Series of twelve cards about pop-ups, and...
 | October         | 🐱‍👤 Cat lantern                   |
 | Birthday        | For fencing coach                |
 | Jr's Birthday   | Cargo burp                       |
-| September       | Stairs (small 🐱‍👤) from, p29 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) |
+| September       | Stairs (small 🐱‍👤) from, p28 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) |
 | August          | 🐱‍👤 Howard Jr as a cat            |
 | Birthday        | 50th for a friend                |
 | July            | Philadelphia                     |
