@@ -58,6 +58,12 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                   | Topic                                |
 | --------------------------------------- | ------------------------------------ |
+| [January](/2023/12/26/january.html)     | Shel Silverstein's "Stairway" (hidden 🐭)|
+
+## 2023
+
+| Month                                   | Topic                                |
+| --------------------------------------- | ------------------------------------ |
 | [December](/2023/11/17/december.html)   | Study in B&W VI, Sierpiński triangle |
 | [Birthday](/2023/11/17/december.html)   | 🐭 83                                 |
 | [November](/2023/10/29/november.html)   | Dark meat turkey                     |
