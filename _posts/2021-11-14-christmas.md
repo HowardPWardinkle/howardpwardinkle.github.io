@@ -10,7 +10,7 @@ cover: /images/2021-Christmas-front.jpg
 excerpt: A zero-degree pop-up for the holidays
 key: Xmas2021
 ---
-Our 2021 Christmas Card<!--more-->
+{{ page.excerpt }}
 
 ![2021 Christmas Cover]({{site.baseurl}}/images/2021-Christmas-front.jpg){: width="{{ site.imageWidthHalf }}" }
 

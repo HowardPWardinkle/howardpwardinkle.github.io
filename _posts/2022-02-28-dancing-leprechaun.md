@@ -9,7 +9,7 @@ cover: /images/2022-03-cover.jpg
 excerpt: 'Look to the end of the rainbow.'
 key: March2022
 ---
-March 2022 card.
+{{ page.excerpt }}
 
 ![]({{site.baseurl}}/images/2022-03.gif){: width="{{ site.imageWidth }}" }
 

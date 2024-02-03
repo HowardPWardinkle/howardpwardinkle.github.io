@@ -17,7 +17,7 @@ cover: /images/mice-will-play/cover.jpg
 excerpt: 'Throwback: First appearance of the mice'
 key: November2016
 ---
-November 2016 Card was the first appearance of the mice.
+{{ page.excerpt }}
 
 ![]({{site.baseurl}}/images/mice-will-play/mice-will-play.gif){: width="{{ site.imageWidth }}" }
 

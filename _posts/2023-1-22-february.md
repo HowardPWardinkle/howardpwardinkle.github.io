@@ -14,7 +14,7 @@ cover: /images/2302/cover.jpg
 excerpt: 'Be Mine'
 key: February2023
 ---
-February 2023 card.
+{{ page.excerpt }}
 
 [![Card]({{site.baseurl}}/images/2302/popup.gif){: width="{{ site.imageWidth }}" }](/images/2302/popup.gif "Click to replay in a new tab"){:target="_blank"}
 

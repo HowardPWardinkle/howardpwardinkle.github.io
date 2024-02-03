@@ -11,7 +11,7 @@ cover: /images/20210327_161328.jpg
 excerpt: A pop-up to celebrate the landing of Ingenuity on Mars.
 key: April2021
 ---
-April 2021 card. A pop-up to celebrate the landing of Ingenuity on Mars.<!--more-->
+{{ page.excerpt }}
 
 ![Mars Rover Pieces]({{site.baseurl}}/images/20210327_162809_1.gif){: width="{{ site.imageWidth }}" }
 

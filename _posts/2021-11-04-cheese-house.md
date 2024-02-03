@@ -12,7 +12,7 @@ cover: /images/cheese-house-cover.jpg
 excerpt: The mice are in the house!
 key: July2021
 ---
-July 2021 card. The mice are back again.<!--more-->
+{{ page.excerpt }}
 
 ![]({{site.baseurl}}/images/cheese-house.gif){: width="{{ site.imageWidth }}" }
 

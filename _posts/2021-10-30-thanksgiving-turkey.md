@@ -14,7 +14,7 @@ cover: /images/20211026_182320.jpg
 excerpt: Gobble, gobble!
 key: November2021
 ---
-November 2021 card. A pop-up for Thanksgiving.<!--more-->
+{{ page.excerpt }}
 
 ![]({{site.baseurl}}/images/20211030_turkey.gif){: width="{{ site.imageWidth }}" }
 
