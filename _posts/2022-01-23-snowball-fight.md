@@ -16,7 +16,7 @@ cover: /images/snowball/snowball-cover.jpg
 excerpt: Don't wake the giant.
 key: February2022
 ---
-February 2022 card.
+{{ page.excerpt }}
 
 ![pop-up]({{site.baseurl}}/images/snowball/snowball.gif){: width="{{ site.imageWidth }}" }
 

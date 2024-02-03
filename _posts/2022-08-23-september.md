@@ -10,7 +10,7 @@ cover: /images/2209/cover.jpg
 excerpt: 'Study in black and white III'
 key: September2022
 ---
-September 2022 card.
+{{ page.excerpt }}
 
 [![Card]({{site.baseurl}}/images/2209/popup.gif){: width="{{ site.imageWidth }}" }](/images/2209/popup.gif "Click to replay in a new tab"){:target="_blank"}
 

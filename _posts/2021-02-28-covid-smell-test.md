@@ -15,7 +15,7 @@ cover: /images/20210228_194044.jpg
 excerpt: How can you tell if you have Covid?
 key: March2021
 ---
-March 2021 card. How can you tell if you have Covid?<!--more-->
+{{ page.excerpt }}
 
 ![]({{site.baseurl}}/images/20210228_194744_1.gif){: width="{{ site.imageWidth }}" }
 
