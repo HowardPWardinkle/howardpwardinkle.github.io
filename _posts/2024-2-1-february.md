@@ -1,8 +1,12 @@
 ---
 tags:
-- 90-degree
-- origami-architecture
-- BT5
+- 180-degree
+- floating-plane
+- box
+- slots
+- FS11
+- FS12
+- BT6
 - '2024'
 title: February 2024 Pop-Up
 cover: /images/2402/cover.jpg
@@ -27,47 +31,57 @@ Making an accurate representation of the boat proved to be more difficult that I
 - The gunnel is very short in the long view, but much taller in the close-up view.
 - The number of pots on the back of the main cabin changes depending on the view.
 
-So I took my best shot of something that I thought would look good.
+So I took my best shot of something that to crush the competition.
 
 ## Design
 
-The hull of the boat is a floating platform very similar to the pool from last [July](/2023/06/29/july.html). Then two more platforms were added on top of that the make the main cabin and the wheel house. Like the pool, the hull is surrounded by a piece of card to make the sides of the boat.
+The mechanism for the boat is fairly simple, but the devil is in the details. Here's my design for the boat before starting to put it in the computer.
 
-I only did one very rough small sketch, then created a design and drew in in the computer to have everything cut out on the {{ site.cameo}}. I did this since it would be an iterative process to get the many tabs and slots aligned properly.
-
-![Design](/images/2402/design.jpg){: width="{{ site.coverWidth }}" }
+![Design](/images/2402/design.jpg){: width="{{ site.halfWidth }}" }
 *Paper design*{: .image-caption}
 
-Then I did three full-size sketches. The first was just to make sure things fit. The second
+The hull of the boat is a floating platform very similar to the pool from last [July](/2023/06/29/july.html). Using the fold on that platform, I added a box to create the cabin. Then on the fold on the roof of the cabin, I added another box to make the wheel house. Like the pool, the hull is surrounded by a piece of card to make the sides of the boat. Below in red is the middle piece of the boat. The main section in the middle goes through a slot in the center of the deck to push up the roof of the cabin. A slot in the cabin roof pushes up the wheel house roof to complete the structural part of the boat.
 
-![Design](/images/2402/sketches.jpg){: width="{{ site.coverWidth }}" }
+![Design](/images/2402/middle.png){: width="{{ site.halfWidth }}" }
+*Middle piece*{: .image-caption}
+
+The deck has two more tabs on the left and right to hold up the flag, and crane, in purple. Likewise on on the next level are tabs to hold up the smoke stacks. And the small tab on the wheel house roof holds up the whistles. You can see that all of these items are be wider than the tabs to prevent them from sliding down as the card is closed.
+
+I only did one very rough small sketch, then created the design in the computer to have everything cut out on the {{ site.cameo}}. Using the machine made it easy to make small changes as I worked through want ended up to be three full-size sketches. The first was just to make sure things fit. The second I "colored" many of the pieces to see how they'd look, and also did some fine-tuning of the mechanism. The third was one last set of fine tuning of the mechanism. The first sketch has a background that folded out and you could pull to the left to give an impression of motion, but that wasn't too practical, so I opted for a stage set background. Although difficult to see in the photo, each sketch has red ink and notes indicating what needed to be tweaked for the next cut.
+
+![Design](/images/2402/sketches.jpg){: width="{{ site.halfWidth }}" }
 *Sketches*{: .image-caption}
 
-For this card, the core of the design is similar, with three sets of stairs, but that's where the similarity ends. In an effort to give the idea that the stairs were going up very high, I made them smaller as they went up to get a forced perspective. The width of each set of stairs is different with the nearest being the widest, the lowest a bit smaller, and the highest the smallest.
+With the hull being long and narrow, when fully open the fore and aft of the hull didn't sit quite flat on the card, so the bottom edge of the hull actually curves down 2mm on the fore and aft edged. Also this left a large space in front and behind the boat. I filled the front with the title screen from the cartoon, and for the back I added a panel that could be lifted up to provide the background for the boat. A pull tab could have done that, perhaps as the card opened, but I was running out of time, and it may not have worked well anyway.
 
-![Forced perspective](/images/2402/perspective.jpg){: width="{{ site.coverWidth }}" }
-*Forced perspective*{: .image-caption}
+To attach the boxes, I used tabs and slots to accurately place each piece, and also avoids more folds, which cause resistance. I had to build it from the top down, attaching the wheel house to the cabin, then the cabin to the deck. Then I could weave the middle piece through to the wheel house.
 
-Ideally, I would have liked the back set of stairs to get narrower as it got higher, but all of them must be the same width for the pop-up to work. I did make the depth of the treads get smaller as they went up. Also, the railing gets smaller as it goes up.
+![Tabs](/images/2402/tabs.jpg){: width="{{ site.coverWidth }}" }
+*Tabs for attaching the boxes*{: .image-caption}
 
-I could have adapted the digital design from the September 2019 card, which the {{ site.cameo }} cut out for me, but since this was going to be a very irregular shape, I decided to do it all by hand. After doing a couple smaller sketches, I drew the pattern on a piece of index (light cardstock) paper. This version has all the exact layout of the stairs so I knew that it would fold properly.
+In the above photo, the boat has a support in the center, and on each edge. There is also a support on the right that will stick up though the deck for the cow. I had lots of options for what to put on the stern of the boat since Mickey uses a goat, cow, parrot, cat, goose, and a pig (deleted when aired on television) to make music. I opted for the goat and cow, since the mechanism is pretty small, the larger animals worked out better. I tried to draw Pete, his nemesis, but it never looked right, so I left him out.
 
-![The exact layout](/images/2402/sketch1.jpg){: width="{{ site.coverWidth }}" }
-*The exact layout*{: .image-caption}
+![Crane](/images/2402/crane.jpg){: width="{{ site.coverWidth }}" }
+*Animals and the crane*{: .image-caption}
 
-This is the same card, but I've drawn in all the illustrations, and taken liberties with all of the edges that will not be folded. On the top fold of the nearest stairs, I did make two of the treads hang over the front to mix things up a bit.
+The crane is mostly paper with thread for the sagging rope and the hook. I used super glue on the thread to create the hook. You can also see I chose to leave out the boxes from the first scene, and go with only three pots on the back wall, along with the wash tub and wash board. Through the window you can barely see the "Potato Bin" from the final scene..
 
-![Updated layout, partially cut out](/images/2402/sketch2.jpg){: width="{{ site.coverWidth }}" }
-*Updated layout, partially cut out*{: .image-caption}
+For the background I tried to faithfully replicate the background from the cartoon, and instead of leaving the back of it blank, I made it look like stage flats, with some stage hands working back there.
 
-After cutting everything out by hand, I scored all the mountain folds and creased all of the valley folds, and did the painstaking task of folding the card while coaxing all the folds to go in the right direction. Since the creases create stress on the mechanism, especially on all the smallest stairs, I scored all of them on the back side to make all of the stairs open up nicely.
+![Stage set](/images/2402/set.jpg){: width="{{ site.coverWidth }}" }
+*Mice always want to lend a hand*{: .image-caption}
 
-Like all OA pop-ups, this one is a bunch of rectangles built on top of one another. Here's the side view showing the rectangles.
+Being an inked cartoon, all the lines are black, I also inked all my lines.
 
-![Side view](/images/2402/side-view.jpg){: width="{{ site.coverWidth }}" }
-*Side view*{: .image-caption}
+![Inking lines](/images/2402/lines.jpg){: width="{{ site.coverWidth }}" }
+*Inking lines*{: .image-caption}
 
-The illustration is very much in the style of Shel Silverstein. I thought of making a mouse climbing the stairs, but thought that wouldn't fit the style. However, there is one hiding under the stairs.
+This is fine, but when I folded the mechanism, the white edges of the card showed. To fix that I _carefully_ used a brush pen on all the edges to make them also black.
+
+![Before](/images/2402/white-edges.jpg){: width="{{ site.thirdWidth }}" }![After](/images/2402/black-edges.jpg){: width="{{ site.thirdWidth }}" }
+*Before and after inking the edges*{: .image-caption}
+
+All in all, I think it turned out pretty well. The tiny details are a bit rough, but I think Ub would be proud.
 
 ![Cartoon](/images/2402/cartoon-frame.png){: width="{{ site.coverWidth }}" }![Steamboat](/images/2402/steamboat.jpg){: width="{{ site.coverWidth }}" }
 *Which is which?*{: .image-caption}
