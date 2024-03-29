@@ -56,10 +56,12 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 ## 2024
 
-| Month                               | Topic                                    |
-| ----------------------------------- | ---------------------------------------- |
+| Month                                 | Topic                                    |
+| ------------------------------------- | ---------------------------------------- |
+| [April](/2024/03/28/april.html)       | Back on the trail again. 🐭as support     |
+| [March](/2024/02/26/march.html)       | Study in B&W VII, Lissajous curves       |
 | [February](/2024/02/01/february.html) | 🐭 Steamboat Willie                       |
-| [January](/2023/12/26/january.html) | Shel Silverstein's "Stairway" (hidden 🐭) |
+| [January](/2023/12/26/january.html)   | Shel Silverstein's "Stairway" (hidden 🐭) |
 
 ## 2023
 
@@ -264,7 +266,7 @@ Series of twelve cards about pop-ups, and...
 
 ## 2013
 
-This was the first year of making pop-up cards. This year all the relatives received a pop-up card for their birthday, which totaled 14 cards. After that only Mom and Jr. got regular cards. The first monthly card to Mom was in July of 2013.
+This was the first year of making pop-up cards. All the relatives received a pop-up card for their birthday, which totaled 14 cards. After that only Mom and Jr. got regular cards. The first monthly card to Mom was in July of 2013.
 
 | Month     | Topic                                                                                              |
 | --------- | -------------------------------------------------------------------------------------------------- |
