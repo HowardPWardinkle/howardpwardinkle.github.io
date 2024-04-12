@@ -9,7 +9,7 @@
         @include clickable($text-color-1, $facebook-color);
       }
       .twitter-button {
-        @include clickable($text-color-1, $twitter-color);
+        @include clickable($text-color-3, transparent);
       }
       .weibo-button {
         @include clickable($text-color-1, $weibo-color);
