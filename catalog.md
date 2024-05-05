@@ -59,7 +59,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | Month                                 | Topic                                    |
 | ------------------------------------- | ---------------------------------------- |
 | [Mother's Day](/2024/04/28/may.html)  | Flowers                                  |
-| [May](/2024/04/28/may.html)           | 🐭🐱‍👤Chess game                            |
+| [May](/2024/04/28/may.html)           | 🐭🐱‍👤Games of chess                        |
 | [April](/2024/03/28/april.html)       | Back on the trail again. 🐭as support     |
 | [March](/2024/02/26/march.html)       | Study in B&W VII, Lissajous curves       |
 | [February](/2024/02/01/february.html) | 🐭 Steamboat Willie                       |
