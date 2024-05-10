@@ -12,7 +12,7 @@ aside:
 
 This blog started in March of 2021, but the pop-up cards started in 2013. This page is a list of all the cards I've made. Entries with links are cards that have blog entries.
 
-If my math is correct, as of October, 2023 there are 199 cards in this list (171 entries + 14 combined entries + 14 birthdays in 2013).
+If my math is correct, as of April, 2024 there are 207 cards in this list (179 entries + 14 combined entries + 14 birthdays in 2013).
 
 |     | Recurring Themes  |
 | --- | ----------------- |
@@ -58,6 +58,8 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                 | Topic                                    |
 | ------------------------------------- | ---------------------------------------- |
+| [Mother's Day](/2024/04/28/may.html)  | Flowers                                  |
+| [May](/2024/04/28/may.html)           | 🐭🐱‍👤Games of chess                        |
 | [April](/2024/03/28/april.html)       | Back on the trail again. 🐭as support     |
 | [March](/2024/02/26/march.html)       | Study in B&W VII, Lissajous curves       |
 | [February](/2024/02/01/february.html) | 🐭 Steamboat Willie                       |
