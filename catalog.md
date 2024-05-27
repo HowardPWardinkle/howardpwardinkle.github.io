@@ -203,7 +203,7 @@ Covid cards appear. I end up with a total of four, and I hope that's the last of
 | HS Graduation                                 | VT Pop-up                                            |
 | HS Graduation                                 | Happy parents                                        |
 | Mother's Day                                  | Perspective spelling it out                          |
-| May                                           | Running Babbit poem by Shel Silverstein              |
+| May                                           | Runny Mets Guddy poem by Shel Silverstein            |
 | April                                         | Butterfly                                            |
 | March                                         | Spiral wind                                          |
 | February                                      | V1 CEO card                                          |
