@@ -58,6 +58,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                 | Topic                                    |
 | ------------------------------------- | ---------------------------------------- |
+| [June](/2024/05/25/june.html)         | Shel Silverstein's "Ploppy Sig Reans His Cloom" |
 | [Mother's Day](/2024/04/28/may.html)  | Flowers                                  |
 | [May](/2024/04/28/may.html)           | 🐭🐱‍👤Games of chess                        |
 | [April](/2024/03/28/april.html)       | Back on the trail again. 🐭as support     |
