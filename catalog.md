@@ -56,15 +56,16 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 ## 2024
 
-| Month                                 | Topic                                    |
-| ------------------------------------- | ---------------------------------------- |
+| Month                                 | Topic                                           |
+| ------------------------------------- | ----------------------------------------------- |
+| [July](/2024/06/28/july.html)         | 🐭Happy 4th!                                     |
 | [June](/2024/05/25/june.html)         | Shel Silverstein's "Ploppy Sig Reans His Cloom" |
-| [Mother's Day](/2024/04/28/may.html)  | Flowers                                  |
-| [May](/2024/04/28/may.html)           | 🐭🐱‍👤Games of chess                        |
-| [April](/2024/03/28/april.html)       | Back on the trail again. 🐭as support     |
-| [March](/2024/02/26/march.html)       | Study in B&W VII, Lissajous curves       |
-| [February](/2024/02/01/february.html) | 🐭 Steamboat Willie                       |
-| [January](/2023/12/26/january.html)   | Shel Silverstein's "Stairway" (hidden 🐭) |
+| [Mother's Day](/2024/04/28/may.html)  | Flowers                                         |
+| [May](/2024/04/28/may.html)           | 🐭🐱‍👤Games of chess                               |
+| [April](/2024/03/28/april.html)       | Back on the trail again. 🐭as support            |
+| [March](/2024/02/26/march.html)       | Study in B&W VII, Lissajous curves              |
+| [February](/2024/02/01/february.html) | 🐭 Steamboat Willie                              |
+| [January](/2023/12/26/january.html)   | Shel Silverstein's "Stairway" (hidden 🐭)        |
 
 ## 2023
 
@@ -276,7 +277,7 @@ This was the first year of making pop-up cards. All the relatives received a pop
 | Birthday  | Birthday cake with firemen putting out the candles                                                 |
 | December  | Carousel Card                                                                                      |
 | November  | Leaves                                                                                             |
-| October   | Remake of the Hallmark centerpiece mentioned in the [October 2023](/2023/10/01/october.html) card. |
+| October   | Remake of the Hallmark centerpiece mentioned in the [October 2023](/2023/10/01/october.html#idea) card. |
 | September | Photos of Howard Jr.                                                                               |
 | August    | 🐱‍👤 Black cat                                                                                       |
-| July      | America Flag -- first monthly card                                                                 |
+| July      | America Flag -- first monthly card mentioned in the [July 2024](/2024/06/28/july.html#idea) card.       |
