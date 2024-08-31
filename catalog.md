@@ -56,17 +56,18 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 ## 2024
 
-| Month                                 | Topic                                           |
-| ------------------------------------- | ----------------------------------------------- |
-| [August](/2024/07/31/august.html)       | 🐭 The claw!                                      |
-| [July](/2024/06/28/july.html)         | 🐭 Happy 4th!                                     |
-| [June](/2024/05/25/june.html)         | Shel Silverstein's "Ploppy Sig Reans His Cloom" |
-| [Mother's Day](/2024/04/28/may.html)  | Flowers                                         |
-| [May](/2024/04/28/may.html)           | 🐭🐱‍👤Games of chess                               |
-| [April](/2024/03/28/april.html)       | Back on the trail again. (🐭as support)            |
-| [March](/2024/02/26/march.html)       | Study in B&W VII, Lissajous curves              |
-| [February](/2024/02/01/february.html) | Steamboat Willie (🐭 stagehands)                             |
-| [January](/2023/12/26/january.html)   | Shel Silverstein's "Stairway" (hidden 🐭)        |
+| Month                                   | Topic                                           |
+| --------------------------------------- | ----------------------------------------------- |
+| [September](/2024/08/29/september.html) | Study in B&W VII, Cubes                         |
+| [August](/2024/07/31/august.html)       | 🐭 The claw!                                     |
+| [July](/2024/06/28/july.html)           | 🐭 Happy 4th!                                    |
+| [June](/2024/05/25/june.html)           | Shel Silverstein's "Ploppy Sig Reans His Cloom" |
+| [Mother's Day](/2024/04/28/may.html)    | Flowers                                         |
+| [May](/2024/04/28/may.html)             | 🐭🐱‍👤Games of chess                               |
+| [April](/2024/03/28/april.html)         | Back on the trail again. (🐭as support)          |
+| [March](/2024/02/26/march.html)         | Study in B&W VII, Lissajous curves              |
+| [February](/2024/02/01/february.html)   | Steamboat Willie (🐭 stagehands)                 |
+| [January](/2023/12/26/january.html)     | Shel Silverstein's "Stairway" (hidden 🐭)        |
 
 ## 2023
 

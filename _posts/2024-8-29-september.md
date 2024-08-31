@@ -4,6 +4,7 @@ tags:
 - box
 - strap
 - FS12
+- study-in-black-and-white
 - BT8
 - '2024'
 title: September 2024 Pop-up
