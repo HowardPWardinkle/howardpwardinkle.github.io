@@ -1,2 +1,2 @@
-# /bin/sh
-bundle exec jekyll serve --livereload
+#! /bin/sh
+bundle exec jekyll serve --livereload --trace
