@@ -140,6 +140,14 @@ by Michael Jacobs
 
 This book has many interesting card designs, many of which are pop-ups. Although it does not include patterns, the directions are clear enough for you to create some great cards. I have used this book for ideas on several of my cards.
 
+### Making Mechanical Cards: 25 Paper-Engineered Designs
+
+by Sheila Sturrock
+
+[![Making Mechanical Cards: 25 Paper-Engineered Designs](https://m.media-amazon.com/images/I/81sZaTQFw8L._SY160.jpg)](https://www.amazon.com/Making-Mechanical-Cards-Paper-Engineered-Designs/dp/1861086350)
+
+This book has some more unusual card designs, many of which are based on historical pop-ups. There are mechanisms that I have not seen in other books. The directions are clear and the patterns are included. The first chapter includes the history of pop-ups.
+
 ## Origami Architecture
 
 ### Great American Buildings: Origami Cutouts of Everybody's Favorite Landmarks
