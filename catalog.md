@@ -12,7 +12,7 @@ aside:
 
 This blog started in March of 2021, but the pop-up cards started in 2013. This page is a list of all the cards I've made. Entries with links are cards that have blog entries.
 
-If my math is correct, as of April, 2024 there are 207 cards in this list (179 entries + 14 combined entries + 14 birthdays in 2013).
+If my math is correct, as of December, 2024 there are 216 cards in this list (188 entries + 14 combined entries + 14 birthdays in 2013).
 
 |     | Recurring Themes  |
 | --- | ----------------- |
@@ -58,6 +58,9 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                   | Topic                                           |
 | --------------------------------------- | ----------------------------------------------- |
+| [December](/2024/11/25/december.html)   | 🐭 How does a Christmas tree work?               |
+| [Birthday](/2024/11/25/december.html)   | 🐭 84                                            |
+| [November](/2024/10/23/november.html)   | When rocking horses dream.                      |
 | [October](/2024/09/23/october.html)     | A flock of black birds                          |
 | [September](/2024/08/29/september.html) | Study in B&W VII, Cubes                         |
 | [August](/2024/07/31/august.html)       | 🐭 The claw!                                     |
