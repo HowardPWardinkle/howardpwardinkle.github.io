@@ -26,6 +26,7 @@ Usually I'll make about a dozen cards for Christmas for friends and worthy famil
 
 | Year | Subject                                                                  |
 | ---- | ------------------------------------------------------------------------ |
+| 2024 | [Mittens](/2024/11/25/december.html)                                     |
 | 2023 | [Nutcracker](/2023/11/17/december.html)                                  |
 | 2022 | [Rudolf](/2022/11/19/december.html)                                      |
 | 2021 | [0&deg; winter scene](/2021/11/14/christmas.html)                        |
@@ -53,6 +54,12 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | 2015 | Chrysler Building      |
 | 2015 | Seagram's Building     |
 | 2015 | Republic Bank Building |
+
+## 2025
+
+| Month                               | Topic                      |
+| ----------------------------------- | -------------------------- |
+| [January](/2024/12/20/january.html) | Shel Silverstein's "SAFE?" |
 
 ## 2024
 
