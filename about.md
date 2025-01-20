@@ -28,4 +28,4 @@ titles:
 
 I've been making monthly pop-up cards for good ol' Mum since 2013 (over 100 as of 2021). This site contains blogs entries about a random sampling of those cards, and how they were made.
 
-There are no annoying ads on this site, but if you'd like to support it you can [Buy me a coffee ☕](https://www.buymeacoffee.com/hpwardinkle). Thanks!
+<!-- There are no annoying ads on this site, but if you'd like to support it you can [Buy me a coffee ☕](https://www.buymeacoffee.com/hpwardinkle). Thanks! -->

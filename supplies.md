@@ -15,11 +15,11 @@ tags: supplies paper materials glue
 
 [![Silhouette Cameo](https://m.media-amazon.com/images/I/71yewKWxHbL.__SY160.jpg)](https://www.amazon.com/gp/product/B07VLB3627)
 
-I love this cutting machine. According to Amazon, I purchased it on May 7, 2014, and have used it for many projects over the years. I use it for cutting vinyl, paper, cardstock, and even heavy Bristol paper. The software is pretty easy to use, and if you watch for sales, you can upgrade to the higher levels pretty cheaply. The latest version even has a "pop-up" feature that helps you make parallel folds out of a shape you create.
+I love this cutting machine, which I've been using since 2014. I use it for cutting vinyl, paper, cardstock, and even heavy Bristol paper. The software is easy to use, and if you watch for sales, you can upgrade to the higher levels pretty cheaply. The latest version even has a "pop-up" feature that helps you make parallel folds out of a shape you create.
 
 ### Fiskar Scissors
 
-[![Fiskar scissors](https://m.media-amazon.com/images/I/51FOaHqDCaL.__SY160.jpg)](https://www.amazon.com/Fiskars-12-94518697WJ-Original-Handled-Scissors/dp/B00006IFN9)
+[![Fiskar scissors](https://m.media-amazon.com/images/I/71+vT5SrJGL.__SY160.jpg)](https://www.amazon.com/Fiskars-01-005437-Heritage-Seamstress-Scissors/dp/B003YKZ59Y/)
 
 I use an 8" pair of these for almost all of my cutting, even very small, detailed cuts. I find I can get much more control with a large pair than a smaller one. I have their small sharpening tool and it keeps all my Fiskars razor sharp. I like all of the Fiskar products, and they have a lifetime guarantee. I broke an embossing tool, and they replaced it, no problem! Great service.
 
