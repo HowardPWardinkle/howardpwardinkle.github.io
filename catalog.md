@@ -57,9 +57,10 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 ## 2025
 
-| Month                               | Topic                      |
-| ----------------------------------- | -------------------------- |
-| [January](/2024/12/20/january.html) | Shel Silverstein's "SAFE?" |
+| Month                                 | Topic                      |
+| ------------------------------------- | -------------------------- |
+| [January](/2024/12/20/january.html)   | Shel Silverstein's "SAFE?" |
+| [February](/2025/01/19/february.html) | 🐭 Love at first sight      |
 
 ## 2024
 
