@@ -62,8 +62,8 @@
               scrolling = false;
             });
           });
-          $tocUl2.append($('<br><li></li>').addClass('toc-h2')
-            .append($('<a></a>').text("Buy me a coffee ☕").attr('href', "https://www.buymeacoffee.com/hpwardinkle")));
+          // $tocUl2.append($('<br><li></li>').addClass('toc-h2')
+          //   .append($('<a></a>').text("Buy me a coffee ☕").attr('href', "https://www.buymeacoffee.com/hpwardinkle")));
         }
         hasRendered = true;
       }

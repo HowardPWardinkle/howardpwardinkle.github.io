@@ -40,7 +40,7 @@ As an aspiring paper engineer, I created every one of the pop-ups of this book o
 
 ### The Elements of Pop-Up
 
-[![The Elements of Pop-Up](https://m.media-amazon.com/images/I/41c6xa8FZHL._SY160.jpg)](https://www.amazon.com/gp/product/1784945145)
+[![The Elements of Pop-Up](https://m.media-amazon.com/images/I/61KhkOQJdcL._SY160.jpg)](https://www.amazon.com/Elements-Pop-Up-James-Diaz/dp/0689822243)
 
 by James Diaz, David A. Carter
 
@@ -48,7 +48,7 @@ No longer in print, this one is interesting in that it is itself a pop-up book w
 
 ### The Complexities of Pop-Up
 
-[![Pop-ups](https://m.media-amazon.com/images/I/415J5erIGwL._SY160.jpg)](https://www.amazon.com/Elements-Pop-Up-James-Diaz/dp/0689822243)
+[![Pop-ups](https://m.media-amazon.com/images/I/41VNU7-rfJL._SY160.jpg)](https://www.amazon.com/Complexities-Pop-Up-David-Carter/dp/1733875115)
 
 by James Diaz, David A. Carter
 
