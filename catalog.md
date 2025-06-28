@@ -59,6 +59,8 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                 | Topic                      |
 | ------------------------------------- | -------------------------- |
+| [July](/2025/06/27/july.html)         | 🐭 Fun in the sun!          |
+| [June](/2025/05/31/june.html)         | Study in B&W IX            |
 | [May](/2025/05/05/may.html)           | Bees & Flowers             |
 | [April](/2025/03/30/april.html)       | Tacks time                 |
 | [March](/2025/03/14/march.html)       | 🐱‍👤 A gift!                 |
@@ -135,9 +137,9 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | [November](/2021/10/30/thanksgiving-turkey.html)  | Turkey                    |
 | October                                           | 🦠Covid, no sense of taste |
 | [Birthday](/2021/12/11/vt.html#super-senior-year) | VT Birthday               |
-| [September](/2021/12/29/peoria.html)              | Peoria OA                 |
+| [September](/2021/08/29/peoria.html)              | Peoria OA                 |
 | August                                            | 🐭 Fresh things            |
-| [July](/2021/11/04/cheese-house.html)             | 🐭 Swiss cheese building   |
+| [July](/2021/06/29/cheese-house.html)             | 🐭 Swiss cheese building   |
 | June                                              | Car (🐭 on bumper)         |
 | Mother's Day                                      | Flowers                   |
 | May                                               | Copse & robbers           |
