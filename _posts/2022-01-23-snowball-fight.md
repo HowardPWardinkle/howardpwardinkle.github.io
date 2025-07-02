@@ -2,8 +2,8 @@
 tags:
 - 180-degree
 - slots
-- extra creases
-- acute-v-fold
+- extra-creases
+- acute-angle-v-fold
 - asymmetric-v-fold
 - FS2
 - FS5

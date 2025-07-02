@@ -4,7 +4,7 @@ tags:
 - floating-plane
 - right-angle-v-fold
 - v-fold
-- straps
+- strap
 - sticking-pieces-on
 - FS11
 - BT8

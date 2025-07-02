@@ -5,7 +5,7 @@ tags:
 - holiday
 - acute-angle-v-fold
 - cutting-parts-away
-- straps
+- strap
 - FS2
 - BT1
 - BT9

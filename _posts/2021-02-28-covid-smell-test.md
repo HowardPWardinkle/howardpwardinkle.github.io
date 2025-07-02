@@ -3,7 +3,7 @@ tags:
 - 180-degree
 - parallelogram
 - v-fold
-- acute-v-fold
+- acute-angle-v-fold
 - spiral
 - FS2
 - FS7
