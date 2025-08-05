@@ -59,6 +59,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                 | Topic                      |
 | ------------------------------------- | -------------------------- |
+| [August](/2025/07/30/august.html)     | The Jumblies               |
 | [July](/2025/06/27/july.html)         | 🐭 Fun in the sun!          |
 | [June](/2025/05/31/june.html)         | Study in B&W IX            |
 | [May](/2025/05/05/may.html)           | Bees & Flowers             |
