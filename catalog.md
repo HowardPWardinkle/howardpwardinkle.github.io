@@ -57,16 +57,17 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 ## 2025
 
-| Month                                 | Topic                      |
-| ------------------------------------- | -------------------------- |
-| [August](/2025/07/30/august.html)     | The Jumblies               |
-| [July](/2025/06/27/july.html)         | 🐭 Fun in the sun!          |
-| [June](/2025/05/31/june.html)         | Study in B&W IX            |
-| [May](/2025/05/05/may.html)           | Bees & Flowers             |
-| [April](/2025/03/30/april.html)       | Tacks time                 |
-| [March](/2025/03/14/march.html)       | 🐱‍👤 A gift!                 |
-| [February](/2025/01/19/february.html) | 🐭 Love at first sight      |
-| [January](/2024/12/20/january.html)   | Shel Silverstein's "SAFE?" |
+| Month                                   | Topic                      |
+| --------------------------------------- | -------------------------- |
+| [September](/2025/08/20/september.html) | Did you hear that?         |
+| [August](/2025/07/30/august.html)       | The Jumblies               |
+| [July](/2025/06/27/july.html)           | 🐭 Fun in the sun!          |
+| [June](/2025/05/31/june.html)           | Study in B&W IX            |
+| [May](/2025/05/05/may.html)             | Bees & Flowers             |
+| [April](/2025/03/30/april.html)         | Tacks time                 |
+| [March](/2025/03/14/march.html)         | 🐱‍👤 A gift!                 |
+| [February](/2025/01/19/february.html)   | 🐭 Love at first sight      |
+| [January](/2024/12/20/january.html)     | Shel Silverstein's "SAFE?" |
 
 ## 2024
 
@@ -262,7 +263,7 @@ Series of twelve cards about pop-ups, and...
 | Birthday     | Santa & Reindeer flying        |
 | October      | British Phone Box for Birthday |
 | August       | Mrs. W Birthday, Toon Town     |
-| Mother's Day | April showers..Pilgrims        |
+| Mother's Day | April showers...Pilgrims       |
 | March        | Bro's 25 Wedding Anniversary   |
 
 ## 2014
