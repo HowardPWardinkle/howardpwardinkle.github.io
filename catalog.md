@@ -59,7 +59,10 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                   | Topic                      |
 | --------------------------------------- | -------------------------- |
+| [October](/2025/09/28/october.html)     | 🐭 Special Delivery         |
 | [September](/2025/08/20/september.html) | Did you hear that?         |
+| September                               | Bro's 60th                 |
+| September                               | Howard Jr's Birthday       |
 | [August](/2025/07/30/august.html)       | The Jumblies               |
 | [July](/2025/06/27/july.html)           | 🐭 Fun in the sun!          |
 | [June](/2025/05/31/june.html)           | Study in B&W IX            |
