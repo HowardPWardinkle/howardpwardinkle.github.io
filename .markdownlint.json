@@ -1,0 +1,4 @@
+{
+  "MD013": false,
+  "MD024": false // Disable rule for multiple headers with the same content
+}
