@@ -26,6 +26,7 @@ Usually I'll make about a dozen cards for Christmas for friends and worthy famil
 
 | Year | Subject                                                                               |
 | ---- | ------------------------------------------------------------------------------------- |
+| 2025 | [Penguins](/2025/11/20/december.html)                                                  |
 | 2024 | [Mittens](/2024/11/25/december.html)                                                  |
 | 2023 | [Nutcracker](/2023/11/17/december.html)                                               |
 | 2022 | [Rudolf](/2022/11/19/december.html)                                                   |
@@ -57,20 +58,22 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 ## 2025
 
-| Month                                   | Topic                      |
-| --------------------------------------- | -------------------------- |
-| [October](/2025/09/28/october.html)     | 🐭 Special Delivery         |
-| [September](/2025/08/20/september.html) | Did you hear that?         |
-| September                               | Bro's 60th                 |
-| September                               | Howard Jr's Birthday       |
-| [August](/2025/07/30/august.html)       | The Jumblies               |
-| [July](/2025/06/27/july.html)           | 🐭 Fun in the sun!          |
-| [June](/2025/05/31/june.html)           | Study in B&W IX            |
-| [May](/2025/05/05/may.html)             | Bees & Flowers             |
-| [April](/2025/03/30/april.html)         | Tacks time                 |
-| [March](/2025/03/14/march.html)         | 🐱‍👤 A gift!                 |
-| [February](/2025/01/19/february.html)   | 🐭 Love at first sight      |
-| [January](/2024/12/20/january.html)     | Shel Silverstein's "SAFE?" |
+| Month                                   | Topic                                |
+| --------------------------------------- | ------------------------------------ |
+| [Birthday](/2025/11/20/december.html)   | 🐭 Mice on strike!                    |
+| [November](/2025/10/29/november.html)   | 🐱‍👤 It’s a bird! It’s a plane! It’s … |
+| [October](/2025/09/28/october.html)     | 🐭 Special Delivery                   |
+| [September](/2025/08/20/september.html) | Did you hear that?                   |
+| September                               | Bro's 60th                           |
+| September                               | Howard Jr's Birthday                 |
+| [August](/2025/07/30/august.html)       | The Jumblies                         |
+| [July](/2025/06/27/july.html)           | 🐭 Fun in the sun!                    |
+| [June](/2025/05/31/june.html)           | Study in B&W IX                      |
+| [May](/2025/05/05/may.html)             | Bees & Flowers                       |
+| [April](/2025/03/30/april.html)         | Tacks time                           |
+| [March](/2025/03/14/march.html)         | 🐱‍👤 A gift!                           |
+| [February](/2025/01/19/february.html)   | 🐭 Love at first sight                |
+| [January](/2024/12/20/january.html)     | Shel Silverstein's "SAFE?"           |
 
 ## 2024
 
