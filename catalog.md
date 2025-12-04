@@ -26,7 +26,7 @@ Usually I'll make about a dozen cards for Christmas for friends and worthy famil
 
 | Year | Subject                                                                               |
 | ---- | ------------------------------------------------------------------------------------- |
-| 2025 | [Penguins](/2025/11/20/december.html)                                                  |
+| 2025 | [Penguins](/2025/11/20/december.html)                                                 |
 | 2024 | [Mittens](/2024/11/25/december.html)                                                  |
 | 2023 | [Nutcracker](/2023/11/17/december.html)                                               |
 | 2022 | [Rudolf](/2022/11/19/december.html)                                                   |
@@ -60,6 +60,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                   | Topic                                |
 | --------------------------------------- | ------------------------------------ |
+| [December](/2025/11/20/december-2.html) | 🐭 Back to work (a little 🐱‍👤)         |
 | [Birthday](/2025/11/20/december.html)   | 🐭 Mice on strike!                    |
 | [November](/2025/10/29/november.html)   | 🐱‍👤 It’s a bird! It’s a plane! It’s … |
 | [October](/2025/09/28/october.html)     | 🐭 Special Delivery                   |
