@@ -31,6 +31,7 @@ It's easiest to make a sketch for a pivoting mechanism using small brads for the
 
 Three points are attached to the base: the hand, hat, and belt buckle. The main pivot point is the belt buckle and in the final card will be moved by a lever from behind the card, but for the sketch it's much easier to move it by hand, or as in this case attach something on the front to move it (the blue strip).
 
+<a id="pivot"></a>
 To create a pivot, you first cut a hole where the pivot will go. Using the hole to draw a circle on a piece of card, carefully cut four lines from the edge of the hole outward, as shown below on the left.
 
 ![Pivot]({{site.baseurl}}/images/2022-03-pivot.jpg){: width="{{ site.imageWidth }}" }
