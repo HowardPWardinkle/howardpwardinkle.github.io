@@ -227,6 +227,7 @@ plugins:
 ################## jmw added
 imageWidth: "75%"
 imageWidthThird: "25%"
+imageWidthTwoThird: "42%"
 imageWidthHalf: "37%"
 adLinkWidth: "10%"
 coverWidth: "50%"
