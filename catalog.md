@@ -8,11 +8,9 @@ aside:
   toc: true
 ---
 <!--more-->
-# Pop-up Catalog
+This blog started in March of 2021, but I started making pop-up cards regularly in 2013. This page is a list of all the cards I've made. Entries with links are cards that have blog entries.
 
-This blog started in March of 2021, but the pop-up cards started in 2013. This page is a list of all the cards I've made. Entries with links are cards that have blog entries.
-
-If my math is correct, as of December, 2024 there are 216 cards in this list (188 entries + 14 combined entries + 14 birthdays in 2013).
+If my math is correct, as of December, 2024 there are 217 cards in this list (188 entries + 14 combined entries + 14 birthdays in 2013).
 
 |     | Recurring Themes  |
 | --- | ----------------- |
@@ -26,7 +24,7 @@ Usually I'll make about a dozen cards for Christmas for friends and worthy famil
 
 | Year | Subject                                                                               |
 | ---- | ------------------------------------------------------------------------------------- |
-| 2025 | [Penguins](/2025/11/20/december.html)                                                  |
+| 2025 | [Penguins](/2025/11/20/december.html)                                                 |
 | 2024 | [Mittens](/2024/11/25/december.html)                                                  |
 | 2023 | [Nutcracker](/2023/11/17/december.html)                                               |
 | 2022 | [Rudolf](/2022/11/19/december.html)                                                   |
@@ -60,6 +58,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                   | Topic                                |
 | --------------------------------------- | ------------------------------------ |
+| [December](/2025/11/20/december-2.html) | 🐭 Back to work (a small 🐱‍👤)         |
 | [Birthday](/2025/11/20/december.html)   | 🐭 Mice on strike!                    |
 | [November](/2025/10/29/november.html)   | 🐱‍👤 It’s a bird! It’s a plane! It’s … |
 | [October](/2025/09/28/october.html)     | 🐭 Special Delivery                   |
@@ -208,6 +207,7 @@ Covid cards appear. I end up with a total of four, and I hope that's the last of
 | [Birthday](/2021/12/11/vt.html#sophomore-year) | VT Birthday                                 |
 | September                                      | House of "cards"                            |
 | Birthday                                       | Go Girl                                     |
+| August                                         | Cabin thank you card                        |
 | August                                         | 🐭Kitten in the kitchen                      |
 | July                                           | Mushrooms                                   |
 | Mother's Day                                   | Flowers on vines                            |
