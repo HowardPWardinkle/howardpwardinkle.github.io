@@ -54,11 +54,18 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | 2015 | Seagram's Building     |
 | 2015 | Republic Bank Building |
 
+## 2026
+
+| Month                                 | Topic                        |
+| ------------------------------------- | ---------------------------- |
+| [February](/2026/01/26/february.html) | Study in B&White X. Diamonds |
+| [January](/2026/01/05/january.html)   | 🐭 We've gone metric          |
+
 ## 2025
 
 | Month                                   | Topic                                |
 | --------------------------------------- | ------------------------------------ |
-| [December](/2025/11/20/december-2.html) | 🐭 Back to work (a small 🐱‍👤)         |
+| [December](/2025/11/20/december-2.html) | 🐭 Back to work (a small 🐱‍👤)          |
 | [Birthday](/2025/11/20/december.html)   | 🐭 Mice on strike!                    |
 | [November](/2025/10/29/november.html)   | 🐱‍👤 It’s a bird! It’s a plane! It’s … |
 | [October](/2025/09/28/october.html)     | 🐭 Special Delivery                   |
