@@ -293,7 +293,7 @@ Series of twelve cards about pop-ups, and...
 | September       | Stairs (small 🐱‍👤) from, p28 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion)                     |
 | August          | 🐱‍👤 Howard Jr as a cat                                                                                                                        |
 | Birthday        | 50th for a friend                                                                                                                            |
-| July            | Philadelphia                                                                                                                                 |
+| July            | Independence Hall                                                                                                                            |
 | June            | 🐱‍👤 Nice & bitey cat                                                                                                                          |
 | Mother's Day II | [Nakazawa](/books.html#best-greeting-cards) Flowers basket p99                                                                               |
 | Mother's Day    | Flowers                                                                                                                                      |
