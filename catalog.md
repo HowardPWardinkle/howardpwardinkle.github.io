@@ -58,6 +58,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                 | Topic                        |
 | ------------------------------------- | ---------------------------- |
+| [March](/2026/02/25/march.html)       | Howard Jr's New Home         |
 | [February](/2026/01/26/february.html) | Study in B&White X. Diamonds |
 | [January](/2026/01/05/january.html)   | 🐭 We've gone metric          |
 
