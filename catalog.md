@@ -58,6 +58,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                 | Topic                        |
 | ------------------------------------- | ---------------------------- |
+| [March](/2026/02/25/march.html)       | Howard Jr's New Home         |
 | [February](/2026/01/26/february.html) | Study in B&White X. Diamonds |
 | [January](/2026/01/05/january.html)   | 🐭 We've gone metric          |
 
@@ -292,7 +293,7 @@ Series of twelve cards about pop-ups, and...
 | September       | Stairs (small 🐱‍👤) from, p28 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion)                     |
 | August          | 🐱‍👤 Howard Jr as a cat                                                                                                                        |
 | Birthday        | 50th for a friend                                                                                                                            |
-| July            | Philadelphia                                                                                                                                 |
+| July            | Independence Hall                                                                                                                            |
 | June            | 🐱‍👤 Nice & bitey cat                                                                                                                          |
 | Mother's Day II | [Nakazawa](/books.html#best-greeting-cards) Flowers basket p99                                                                               |
 | Mother's Day    | Flowers                                                                                                                                      |
