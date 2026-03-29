@@ -58,6 +58,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                 | Topic                        |
 | ------------------------------------- | ---------------------------- |
+| [April](/2026/03/29/april.html)       | Dirty Spokes logo            |
 | [March](/2026/02/25/march.html)       | Howard Jr's New Home         |
 | [February](/2026/01/26/february.html) | Study in B&White X. Diamonds |
 | [January](/2026/01/05/january.html)   | 🐭 We've gone metric          |
@@ -299,9 +300,9 @@ Series of twelve cards about pop-ups, and...
 | Mother's Day    | Flowers                                                                                                                                      |
 | May             | [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) pattern p35                                        |
 | April           | Bookmark                                                                                                                                     |
-| March           | Tunnel                                                                                                                                       |
+| March           | Tunnel, mentioned in the [April 2026](/2026/03/29/april.html#design) card                                                                            |
 | February        | Up-pop flower                                                                                                                                |
-| January         | [Chantani](/books.html#paper-magic-pop-up-paper-craft) Tree p60 mentioned in the [October 2024](/2024/09/23/october.html#design) card. card. |
+| January         | [Chantani](/books.html#paper-magic-pop-up-paper-craft) Tree p60, mentioned in the [October 2024](/2024/09/23/october.html#design) card. card. |
 
 ## 2013
 
