@@ -58,6 +58,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                 | Topic                        |
 | ------------------------------------- | ---------------------------- |
+| [May](/2026/04/22/may.html)         | Maze                         |
 | [April](/2026/03/29/april.html)       | Dirty Spokes logo            |
 | [March](/2026/02/25/march.html)       | Howard Jr's New Home         |
 | [February](/2026/01/26/february.html) | Study in B&White X. Diamonds |
@@ -283,25 +284,25 @@ Series of twelve cards about pop-ups, and...
 
 ## 2014
 
-| Month           | Topic                                                                                                                                        |
-| --------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Birthday        | 🐱‍👤 Cat from Jacob's card pattern                                                                                                             |
-| December        | Snowman                                                                                                                                      |
-| November        | Pilgrim & Indian                                                                                                                             |
-| October         | 🐱‍👤 Cat lantern                                                                                                                               |
-| Birthday        | For fencing coach                                                                                                                            |
-| Jr's Birthday   | Cargo burp                                                                                                                                   |
-| September       | Stairs (small 🐱‍👤) from, p28 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion)                     |
-| August          | 🐱‍👤 Howard Jr as a cat                                                                                                                        |
-| Birthday        | 50th for a friend                                                                                                                            |
-| July            | Independence Hall                                                                                                                            |
-| June            | 🐱‍👤 Nice & bitey cat                                                                                                                          |
-| Mother's Day II | [Nakazawa](/books.html#best-greeting-cards) Flowers basket p99                                                                               |
-| Mother's Day    | Flowers                                                                                                                                      |
-| May             | [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) pattern p35                                        |
-| April           | Bookmark                                                                                                                                     |
-| March           | Tunnel, mentioned in the [April 2026](/2026/03/29/april.html#design) card                                                                            |
-| February        | Up-pop flower                                                                                                                                |
+| Month           | Topic                                                                                                                                         |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Birthday        | 🐱‍👤 Cat from Jacob's card pattern                                                                                                              |
+| December        | Snowman                                                                                                                                       |
+| November        | Pilgrim & Indian                                                                                                                              |
+| October         | 🐱‍👤 Cat lantern                                                                                                                                |
+| Birthday        | For fencing coach                                                                                                                             |
+| Jr's Birthday   | Cargo burp                                                                                                                                    |
+| September       | Stairs (small 🐱‍👤) from, p28 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion)                      |
+| August          | 🐱‍👤 Howard Jr as a cat                                                                                                                         |
+| Birthday        | 50th for a friend                                                                                                                             |
+| July            | Independence Hall                                                                                                                             |
+| June            | 🐱‍👤 Nice & bitey cat                                                                                                                           |
+| Mother's Day II | [Nakazawa](/books.html#best-greeting-cards) Flowers basket p99                                                                                |
+| Mother's Day    | Flowers                                                                                                                                       |
+| May             | [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) pattern p35                                         |
+| April           | Bookmark                                                                                                                                      |
+| March           | Tunnel, mentioned in the [April 2026](/2026/03/29/april.html#design) card                                                                     |
+| February        | Up-pop flower                                                                                                                                 |
 | January         | [Chantani](/books.html#paper-magic-pop-up-paper-craft) Tree p60, mentioned in the [October 2024](/2024/09/23/october.html#design) card. card. |
 
 ## 2013
