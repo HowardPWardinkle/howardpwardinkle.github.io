@@ -56,13 +56,14 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 ## 2026
 
-| Month                                 | Topic                        |
-| ------------------------------------- | ---------------------------- |
-| [May](/2026/04/22/may.html)         | Maze                         |
-| [April](/2026/03/29/april.html)       | Dirty Spokes logo            |
-| [March](/2026/02/25/march.html)       | Howard Jr's New Home         |
-| [February](/2026/01/26/february.html) | Study in B&White X. Diamonds |
-| [January](/2026/01/05/january.html)   | 🐭 We've gone metric          |
+| Month                                       | Topic                    |
+| ------------------------------------------- | ------------------------ |
+| [Mother's Day](/2026/05/04/mothersday.html) | Vines and a flower       |
+| [May](/2026/04/22/may.html)                 | Maze                     |
+| [April](/2026/03/29/april.html)             | Dirty Spokes logo        |
+| [March](/2026/02/25/march.html)             | Howard Jr's New Home     |
+| [February](/2026/01/26/february.html)       | Study in B&W X. Diamonds |
+| [January](/2026/01/05/january.html)         | 🐭 We've gone metric      |
 
 ## 2025
 
