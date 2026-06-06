@@ -8,7 +8,7 @@ tags:
 - '2021'
 title: April 2021 Pop-Up
 cover: /images/20210327_161328.jpg
-excerpt: A pop-up to celebrate the landing of Ingenuity on Mars.
+excerpt: A pop-up to celebrate the landing of Perseverance on Mars.
 key: April2021
 ---
 {{ page.excerpt }}
@@ -17,7 +17,7 @@ key: April2021
 
 ## Idea
 
-This was pretty easy to come up with, but the design took quite a bit of time. NASA used to have a 3D model of Ingenuity on their site, but it looks like only the helicopter is there now.
+This was pretty easy to come up with, but the design took quite a bit of time. NASA used to have a 3D model of Perseverance on their site, but it looks like only the helicopter (Ingenuity) is there now.
 But that was a great resource for designing the pop-up. I tried to make it as accurate as possible without getting too crazy.
 
 ## Design
