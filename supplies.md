@@ -13,9 +13,17 @@ tags: supplies paper materials glue
 
 ### Silhouette Cameo
 
+#### Cameo 5&alpha;
+
+[![Silhouette Cameo](https://m.media-amazon.com/images/I/717BgiSwgfL.__SY160.jpg)](https://www.amazon.com/Silhouette-America-Cameo-Alpha-Compatible/dp/B0FQFPPW2P)
+
+I received the latest version of this machine as a retirement gift from Ma Wardinkle. These are great machines. I use it for cutting vinyl, paper, cardstock, and even heavy Bristol paper. The software is easy to use, and if you watch for sales, you can upgrade to the higher levels pretty cheaply. The latest version has two tools, self-adjusting cutting depth, better print and cut feature, and blue tooth.
+
+#### Cameo 1
+
 [![Silhouette Cameo](https://m.media-amazon.com/images/I/71yewKWxHbL.__SY160.jpg)](https://www.amazon.com/gp/product/B07VLB3627)
 
-I love this cutting machine, which I've been using since 2014. I use it for cutting vinyl, paper, cardstock, and even heavy Bristol paper. The software is easy to use, and if you watch for sales, you can upgrade to the higher levels pretty cheaply. The latest version even has a "pop-up" feature that helps you make parallel folds out of a shape you create.
+I loved this cutting machine, which I used from 2014 to 2026.
 
 ### Fiskar Scissors
 
