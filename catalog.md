@@ -58,6 +58,9 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                       | Topic                    |
 | ------------------------------------------- | ------------------------ |
+| [August](/2026/07/23/august.html)           | 🐭 Apollo Space Program   |
+| [July](/2026/06/29/july.html)               | 🐭 Gemini Space Program   |
+| [June](/2026/05/29/june.html)               | 🐭 Mercury Space Program  |
 | [Mother's Day](/2026/05/04/mothersday.html) | Vines and a flower       |
 | [May](/2026/04/22/may.html)                 | Maze                     |
 | [April](/2026/03/29/april.html)             | Dirty Spokes logo        |
