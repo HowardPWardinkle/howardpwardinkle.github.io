@@ -14,7 +14,7 @@ If my math is correct, as of December, 2024 there are 217 cards in this list (18
 
 |     | Recurring Themes  |
 | --- | ----------------- |
-| 🐱‍👤  | Cat is featured   |
+| 🐱   | Cat is featured   |
 | 🐭   | Mice are featured |
 | 🦠   | Covid card        |
 
@@ -22,21 +22,21 @@ If my math is correct, as of December, 2024 there are 217 cards in this list (18
 
 Usually I'll make about a dozen cards for Christmas for friends and worthy family members.
 
-| Year | Subject                                                                               |
-| ---- | ------------------------------------------------------------------------------------- |
-| 2025 | [Penguins](/2025/11/20/december.html)                                                 |
-| 2024 | [Mittens](/2024/11/25/december.html)                                                  |
-| 2023 | [Nutcracker](/2023/11/17/december.html)                                               |
-| 2022 | [Rudolf](/2022/11/19/december.html)                                                   |
-| 2021 | [0&deg; winter scene](/2021/11/14/christmas.html)                                     |
-| 2020 | 🐱‍👤 Santa in chimney, cat with a mask ([photo](/2025/05/05/may.html#idea) in May 2025) |
-| 2019 | Gnomes                                                                                |
-| 2018 | Christmas tree V                                                                      |
-| 2017 | OA winter scene                                                                       |
-| 2016 | Snow man ([photo](/2023/11/17/december.html#christmas-card) in Dec 2023)              |
-| 2015 | Spiral Tree                                                                           |
-| 2014 | Digitized Santa head with pipe                                                        |
-| 2013 | Fireplace                                                                             |
+| Year | Subject                                                                              |
+| ---- | ------------------------------------------------------------------------------------ |
+| 2025 | [Penguins](/2025/11/20/december.html)                                                |
+| 2024 | [Mittens](/2024/11/25/december.html)                                                 |
+| 2023 | [Nutcracker](/2023/11/17/december.html)                                              |
+| 2022 | [Rudolf](/2022/11/19/december.html)                                                  |
+| 2021 | [0&deg; winter scene](/2021/11/14/christmas.html)                                    |
+| 2020 | 🐱 Santa in chimney, cat with a mask ([photo](/2025/05/05/may.html#idea) in May 2025) |
+| 2019 | Gnomes                                                                               |
+| 2018 | Christmas tree V                                                                     |
+| 2017 | OA winter scene                                                                      |
+| 2016 | Snow man ([photo](/2023/11/17/december.html#christmas-card) in Dec 2023)             |
+| 2015 | Spiral Tree                                                                          |
+| 2014 | Digitized Santa head with pipe                                                       |
+| 2013 | Fireplace                                                                            |
 
 ## Origami Architecture Extras
 
@@ -58,6 +58,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 | Month                                       | Topic                       |
 | ------------------------------------------- | --------------------------- |
+| [October](/2026/09/22/october.html)         | The Bee poem                |
 | [September](/2026/08/26/september.html)     | Study in B&W XI. Pentagrams |
 | [August](/2026/07/23/august.html)           | 🐭 Apollo Space Program      |
 | [July](/2026/06/29/july.html)               | 🐭 Gemini Space Program      |
@@ -71,23 +72,23 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 
 ## 2025
 
-| Month                                   | Topic                                |
-| --------------------------------------- | ------------------------------------ |
-| [December](/2025/11/20/december-2.html) | 🐭 Back to work (a small 🐱‍👤)          |
-| [Birthday](/2025/11/20/december.html)   | 🐭 Mice on strike!                    |
-| [November](/2025/10/29/november.html)   | 🐱‍👤 It’s a bird! It’s a plane! It’s … |
-| [October](/2025/09/28/october.html)     | 🐭 Special Delivery                   |
-| [September](/2025/08/20/september.html) | Did you hear that?                   |
-| September                               | Bro's 60th                           |
-| September                               | Howard Jr's Birthday                 |
-| [August](/2025/07/30/august.html)       | The Jumblies                         |
-| [July](/2025/06/27/july.html)           | 🐭 Fun in the sun!                    |
-| [June](/2025/05/31/june.html)           | Study in B&W IX                      |
-| [May](/2025/05/05/may.html)             | Bees & Flowers                       |
-| [April](/2025/03/30/april.html)         | Tacks time                           |
-| [March](/2025/03/14/march.html)         | 🐱‍👤 A gift!                           |
-| [February](/2025/01/19/february.html)   | 🐭 Love at first sight                |
-| [January](/2024/12/20/january.html)     | Shel Silverstein's "SAFE?"           |
+| Month                                   | Topic                               |
+| --------------------------------------- | ----------------------------------- |
+| [December](/2025/11/20/december-2.html) | 🐭 Back to work (a small 🐱)          |
+| [Birthday](/2025/11/20/december.html)   | 🐭 Mice on strike!                   |
+| [November](/2025/10/29/november.html)   | 🐱 It’s a bird! It’s a plane! It’s … |
+| [October](/2025/09/28/october.html)     | 🐭 Special Delivery                  |
+| [September](/2025/08/20/september.html) | Did you hear that?                  |
+| September                               | Bro's 60th                          |
+| September                               | Howard Jr's Birthday                |
+| [August](/2025/07/30/august.html)       | The Jumblies                        |
+| [July](/2025/06/27/july.html)           | 🐭 Fun in the sun!                   |
+| [June](/2025/05/31/june.html)           | Study in B&W IX                     |
+| [May](/2025/05/05/may.html)             | Bees & Flowers                      |
+| [April](/2025/03/30/april.html)         | Tacks time                          |
+| [March](/2025/03/14/march.html)         | 🐱 A gift!                           |
+| [February](/2025/01/19/february.html)   | 🐭 Love at first sight               |
+| [January](/2024/12/20/january.html)     | Shel Silverstein's "SAFE?"          |
 
 ## 2024
 
@@ -102,7 +103,7 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | [July](/2024/06/28/july.html)           | 🐭 Happy 4th!                                    |
 | [June](/2024/05/25/june.html)           | Shel Silverstein's "Ploppy Sig Reans His Cloom" |
 | [Mother's Day](/2024/04/28/may.html)    | Flowers                                         |
-| [May](/2024/04/28/may.html)             | 🐭🐱‍👤Games of chess                               |
+| [May](/2024/04/28/may.html)             | 🐭🐱Games of chess                                |
 | [April](/2024/03/28/april.html)         | Back on the trail again. (🐭as support)          |
 | [March](/2024/02/26/march.html)         | Study in B&W VII, Lissajous curves              |
 | [February](/2024/02/01/february.html)   | Steamboat Willie (🐭 stagehands)                 |
@@ -116,13 +117,13 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | [Birthday](/2023/11/17/december.html)   | 🐭 83                                 |
 | [November](/2023/10/29/november.html)   | Dark meat turkey                     |
 | [October](/2023/10/01/october.html)     | 🐭 Haunted house                      |
-| [September](/2023/08/28/september.html) | 🐱‍👤 Bremen Town Musicians             |
+| [September](/2023/08/28/september.html) | 🐱 Bremen Town Musicians              |
 | [August](/2023/07/22/august.html)       | Loyal Health company logo            |
 | [July](/2023/06/29/july.html)           | 🐭 Pool party.                        |
 | [June](/2023/05/21/june.html)           | Study in B&W V, hexagons             |
 | [Mother's Day](/2023/04/27/may.html)    | Flower box                           |
 | [May](/2023/04/27/may.html)             | Belnord Hotel                        |
-| [April](/2023/03/29/april.html)         | 🐭 🐱‍👤 Hole in the Road, Mouse Version |
+| [April](/2023/03/29/april.html)         | 🐭 🐱 Hole in the Road, Mouse Version  |
 | [March](/2023/02/27/march.html)         | 🐭 Homelessness                       |
 | [February](/2023/01/22/february.html)   | Heart trees                          |
 | [January](/2022/12/22/january.html)     | Snowflakes                           |
@@ -135,18 +136,18 @@ Occasionally I'll take a OA pattern from a book of famous buildings and send it 
 | [Birthday](/2022/11/19/december.html)        | 🐭 Building letters                                               |
 | [November](/2022/10/29/november.html)        | County fair                                                      |
 | [October](/2022/09/23/october.html)          | 🐭 Study in B&W IV pyramid                                        |
-| Birthday                                     | 🐱‍👤 Howard Jr. & cat                                              |
+| Birthday                                     | 🐱 Howard Jr. & cat                                               |
 | [September](/2022/08/23/september.html)      | Study in B&W III circles                                         |
 | Birthday                                     | Sunflower birthday, Mrs. W.                                      |
 | [August](/2022/07/27/august.html)            | Study in B&W II diamonds                                         |
 | [July](/2022/06/26/july.html)                | Study in B&W I, triangles                                        |
-| [June](/2022/05/30/mail.html)                | 🐭 🐱‍👤 Post box                                                    |
+| [June](/2022/05/30/mail.html)                | 🐭 🐱 Post box                                                     |
 | [Mother's Day](/2022/04/24/may.html)         | Tulips                                                           |
 | [May](/2022/04/24/may.html)                  | Butterfly                                                        |
 | [April](/2022/04/14/up-pop-box.html)         | Up-pop graduation announcement                                   |
 | [April](/2022/03/26/bridge.html)             | 🐭 Playing card bridge                                            |
 | [March](/2022/02/28/dancing-leprechaun.html) | Leprechaun                                                       |
-| [February](/2022/01/23/snowball-fight.html)  | 🐭 🐱‍👤 Caterpillar snow machine                                    |
+| [February](/2022/01/23/snowball-fight.html)  | 🐭 🐱 Caterpillar snow machine                                     |
 | January                                      | [Chatani](/books.html#pop-up-origamic-architecture) pattern, p57 |
 
 ## 2021
@@ -178,7 +179,7 @@ Covid cards appear. I end up with a total of four, and I hope that's the last of
 | ------------------------------------------- | ---------------------------------------------- |
 | Birthday                                    | Snowman 80                                     |
 | December                                    | On the road to recovery. Hitchhiking 🐭         |
-| November                                    | Painting the deck (🐱‍👤 in the window)           |
+| November                                    | Painting the deck (🐱 in the window)            |
 | October                                     | 🐭Edward Lear limerick, with a balloon          |
 | [Birthday](/2021/12/11/vt.html#senior-year) | VT Birthday                                    |
 | September                                   | 🐭 Election                                     |
@@ -186,63 +187,63 @@ Covid cards appear. I end up with a total of four, and I hope that's the last of
 | July                                        | Strange Wind by Shel Silverstein               |
 | June                                        | 🐭City mouse, country mouse                     |
 | Mother's Day                                | Hummingbird                                    |
-| May                                         | 🦠Covid - No Exit (🐱‍👤 in window)                |
+| May                                         | 🦠Covid - No Exit (🐱 in window)                 |
 | April                                       | Mother Goose, man who wouldn't say his prayers |
 | March                                       | Shamrocks                                      |
-| February                                    | 🐭 🐱‍👤 skiing on a cat                           |
-| January                                     | 🐱‍👤 Bird peeking at a bird feeder               |
+| February                                    | 🐭 🐱 skiing on a cat                            |
+| January                                     | 🐱 Bird peeking at a bird feeder                |
 
 ## 2019
 
-| Month                                       | Topic                                                                                                              |
-| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Birthday                                    | I was going to visit...                                                                                            |
-| December                                    | Snowflakes                                                                                                         |
-| November                                    | Apples                                                                                                             |
-| October                                     | 🐱‍👤 Cat with a cone                                                                                                 |
-| [Birthday](/2021/12/11/vt.html#junior-year) | VT Birthday                                                                                                        |
-| September                                   | Four Oarsmen                                                                                                       |
-| August                                      | Disk golf                                                                                                          |
-| July                                        | Rainbow thrower, Shel Silverstein                                                                                  |
-| June                                        | 🐱‍👤 Cat on stairs, p29 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) |
-| Mother's Day                                | Chatani blue flower                                                                                                |
-| May                                         | 🐭 Three blind mice                                                                                                 |
-| April                                       | Tide                                                                                                               |
-| March                                       | 🐱‍👤 Cat jumped over the moon                                                                                        |
-| February                                    | 🐱‍👤 Sock on a stick                                                                                                 |
-| January                                     | Colored pencils                                                                                                    |
+| Month                                       | Topic                                                                                                             |
+| ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Birthday                                    | I was going to visit...                                                                                           |
+| December                                    | Snowflakes                                                                                                        |
+| November                                    | Apples                                                                                                            |
+| October                                     | 🐱 Cat with a cone                                                                                                 |
+| [Birthday](/2021/12/11/vt.html#junior-year) | VT Birthday                                                                                                       |
+| September                                   | Four Oarsmen                                                                                                      |
+| August                                      | Disk golf                                                                                                         |
+| July                                        | Rainbow thrower, Shel Silverstein                                                                                 |
+| June                                        | 🐱 Cat on stairs, p29 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) |
+| Mother's Day                                | Chatani blue flower                                                                                               |
+| May                                         | 🐭 Three blind mice                                                                                                |
+| April                                       | Tide                                                                                                              |
+| March                                       | 🐱 Cat jumped over the moon                                                                                        |
+| February                                    | 🐱 Sock on a stick                                                                                                 |
+| January                                     | Colored pencils                                                                                                   |
 
 ## 2018
 
-| Month                                          | Topic                                       |
-| ---------------------------------------------- | ------------------------------------------- |
-| December+Birthday                              | 🐱‍👤 Drawing table with birthday pop-up on it |
-| November                                       | Birds flying South                          |
-| October                                        | Simple Simon                                |
-| [Birthday](/2021/12/11/vt.html#sophomore-year) | VT Birthday                                 |
-| September                                      | House of "cards"                            |
-| Birthday                                       | Go Girl                                     |
-| August                                         | Cabin thank you card                        |
-| August                                         | 🐭Kitten in the kitchen                      |
-| July                                           | Mushrooms                                   |
-| Mother's Day                                   | Flowers on vines                            |
-| March, April, May, June                        | 🐱‍👤 Three little kittens                     |
-| February                                       | Emu                                         |
-| January                                        | Thank you card                              |
+| Month                                          | Topic                                      |
+| ---------------------------------------------- | ------------------------------------------ |
+| December+Birthday                              | 🐱 Drawing table with birthday pop-up on it |
+| November                                       | Birds flying South                         |
+| October                                        | Simple Simon                               |
+| [Birthday](/2021/12/11/vt.html#sophomore-year) | VT Birthday                                |
+| September                                      | House of "cards"                           |
+| Birthday                                       | Go Girl                                    |
+| August                                         | Cabin thank you card                       |
+| August                                         | 🐭Kitten in the kitchen                     |
+| July                                           | Mushrooms                                  |
+| Mother's Day                                   | Flowers on vines                           |
+| March, April, May, June                        | 🐱 Three little kittens                     |
+| February                                       | Emu                                        |
+| January                                        | Thank you card                             |
 
 ## 2017
 
 | Month                                         | Topic                                                |
 | --------------------------------------------- | ---------------------------------------------------- |
 | Birthday                                      | 77                                                   |
-| December                                      | 🐱‍👤 Cat destroys decorations                          |
+| December                                      | 🐱 Cat destroys decorations                           |
 | November                                      | I quit pop-up                                        |
 | November                                      | Cornucopia                                           |
 | October                                       | Tree stump with pumpkin and ghosts                   |
 | [Birthday](/2021/12/11/vt.html#freshman-year) | First VT Birthday                                    |
 | September                                     | Alphabalance by Shel Silverstein                     |
 | August                                        | Empty nest                                           |
-| July                                          | 🐱‍👤 Cheshire cat disappears                           |
+| July                                          | 🐱 Cheshire cat disappears                            |
 | June                                          | "Pop-up" layers card                                 |
 | HS Graduation                                 | VT Pop-up                                            |
 | HS Graduation                                 | Happy parents                                        |
@@ -252,7 +253,7 @@ Covid cards appear. I end up with a total of four, and I hope that's the last of
 | March                                         | Spiral wind                                          |
 | February                                      | V1 CEO card                                          |
 | February                                      | If you don't like the weather... (Ink passes away 😢) |
-| January                                       | 🐱‍👤 Where's a black cat when you turn on the lights?  |
+| January                                       | 🐱 Where's a black cat when you turn on the lights?   |
 
 ## 2016
 
@@ -269,10 +270,10 @@ November marks the first appearance of the mice! 🐭
 | July                                        | Old house at 230 OA                                                    |
 | June                                        | [Nakazawa](/books.html#best-greeting-cards) Hydrangea flower p58       |
 | Mother's Day                                | Spelling it out                                                        |
-| May                                         | 🐱‍👤 Cat's favorite things                                               |
+| May                                         | 🐱 Cat's favorite things                                                |
 | April                                       | Two images in one card                                                 |
 | March                                       | [Nakazawa](/books.html#best-greeting-cards) Cape Jasmine flower p55    |
-| February                                    | 🐱‍👤 Choose wisely                                                       |
+| February                                    | 🐱 Choose wisely                                                        |
 | January                                     | Don Quixote tilting at windmill                                        |
 
 ## 2015
@@ -291,17 +292,17 @@ Series of twelve cards about pop-ups, and...
 
 | Month           | Topic                                                                                                                                         |
 | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Birthday        | 🐱‍👤 Cat from Jacob's card pattern                                                                                                              |
+| Birthday        | 🐱 Cat from Jacob's card pattern                                                                                                               |
 | December        | Snowman                                                                                                                                       |
 | November        | Pilgrim & Indian                                                                                                                              |
-| October         | 🐱‍👤 Cat lantern                                                                                                                                |
+| October         | 🐱 Cat lantern                                                                                                                                 |
 | Birthday        | For fencing coach                                                                                                                             |
 | Jr's Birthday   | Cargo burp                                                                                                                                    |
-| September       | Stairs (small 🐱‍👤) from, p28 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion)                      |
-| August          | 🐱‍👤 Howard Jr as a cat                                                                                                                         |
+| September       | Stairs (small 🐱) from, p28 of [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion)                       |
+| August          | 🐱 Howard Jr as a cat                                                                                                                          |
 | Birthday        | 50th for a friend                                                                                                                             |
 | July            | Independence Hall                                                                                                                             |
-| June            | 🐱‍👤 Nice & bitey cat                                                                                                                           |
+| June            | 🐱 Nice & bitey cat                                                                                                                            |
 | Mother's Day II | [Nakazawa](/books.html#best-greeting-cards) Flowers basket p99                                                                                |
 | Mother's Day    | Flowers                                                                                                                                       |
 | May             | [Chatani](/books.html#pop-up-greeting-cards-a-creative-personal-touch-for-every-occasion) pattern p35                                         |
@@ -321,5 +322,5 @@ This was the first year of making pop-up cards. All the relatives received a pop
 | November  | Leaves                                                                                                  |
 | October   | Remake of the Hallmark centerpiece mentioned in the [October 2023](/2023/10/01/october.html#idea) card. |
 | September | Photos of Howard Jr.                                                                                    |
-| August    | 🐱‍👤 Black cat                                                                                            |
+| August    | 🐱 Black cat                                                                                             |
 | July      | America Flag -- first monthly card mentioned in the [July 2024](/2024/06/28/july.html#idea) card.       |
